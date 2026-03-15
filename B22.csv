@@ -1,0 +1,52 @@
+Dept_Name,Agency_Name,Climate_Typology,2024_Actual_CC,2025_GAA_CC,2026_GAA_CC,Page_No
+Congress of the Philippines,Congress,Adaptation,29,0,5200,1
+Congress of the Philippines,Congress,Mitigation,0,0,3050,1
+Office of the Vice-President,OVP,Adaptation,0,84,84,1
+Office of the Vice-President,OVP,Mitigation,316,2200,200,1
+Department of Agrarian Reform,DAR,Adaptation,403521,436901,443853,1
+Department of Agriculture,DA,Adaptation,14729339,46630516,58509167,1
+Department of Agriculture,DA,Mitigation,2109289,2046475,420754,1
+Department of Budget and Management,DBM,Adaptation,100,17387,13102,1
+Department of Budget and Management,DBM,Mitigation,174,563545,745236,1
+Department of Education,DepEd,Adaptation,1777901,277293,3781352,1
+Department of Education,DepEd,Mitigation,22,30,32337,1
+State Universities and Colleges,SUCs,Adaptation,434847,3246989,3212708,1
+State Universities and Colleges,SUCs,Mitigation,72702,86712,246304,1
+Department of Energy,DOE,Mitigation,962145,1051015,1501171,1
+Department of Environment and Natural Resources,DENR,Adaptation,6400051,7533198,7203007,1
+Department of Environment and Natural Resources,DENR,Mitigation,2365964,3234706,2409068,1
+Department of Finance,DOF,Mitigation,3118,0,0,1
+Department of Foreign Affairs,DFA,Adaptation,4796,5016,38019,1
+Department of Foreign Affairs,DFA,Mitigation,633,815,0,1
+Department of Health,DOH,Adaptation,699629,1269537,793964,1
+Department of Health,DOH,Mitigation,0,5000,0,1
+Department of Human Settlements and Urban Development,DHSUD,Adaptation,0,2177,2400,1
+Department of the Interior and Local Government,DILG,Adaptation,98762,76150,86150,1
+Department of Justice,DOJ,Mitigation,10423,47888,44321,1
+Department of Labor and Employment,DOLE,Adaptation,1966401,3787,3787,1
+Department of Labor and Employment,DOLE,Mitigation,355,0,0,1
+Department of National Defense,DND,Adaptation,580920,560760,733360,1
+Department of National Defense,DND,Mitigation,7304,0,0,1
+Department of Public Works and Highways,DPWH,Adaptation,418794334,1031085541,475010774,1
+Department of Science and Technology,DOST,Adaptation,1593803,1900802,1854580,1
+Department of Science and Technology,DOST,Mitigation,33323,48434,31018,1
+Department of Social Welfare and Development,DSWD,Adaptation,1421523,1469109,1469109,1
+Department of Social Welfare and Development,DSWD,Mitigation,1118,0,0,1
+Department of Tourism,DOT,Adaptation,1458358,1766238,1766238,1
+Department of Tourism,DOT,Mitigation,19,0,0,1
+Department of Trade and Industry,DTI,Adaptation,0,52916,0,1
+Department of Transportation,DOTr,Adaptation,761966,2630000,432612,1
+Department of Transportation,DOTr,Mitigation,101154466,21571113,54763333,1
+NEDA,NEDA,Adaptation,33072,122383,37375,1
+NEDA,NEDA,Mitigation,19618,0,0,1
+Presidential Communications Office,PCO,Adaptation,1383,42,42,1
+Presidential Communications Office,PCO,Mitigation,225,0,0,1
+Other Executive Offices,OEO,Adaptation,1363857,1222544,2140880,1
+Other Executive Offices,OEO,Mitigation,59719,54763,44321,1
+The Judiciary,Judiciary,Adaptation,0,5000,0,1
+Civil Service Commission,CSC,Adaptation,14904,624,624,1
+Civil Service Commission,CSC,Mitigation,5890,0,0,1
+SPECIAL PURPOSE FUNDS,Allocations to LGUs,Adaptation,18184853,23095279,7046116,2
+SPECIAL PURPOSE FUNDS,Allocations to LGUs,Mitigation,4196401,0,5345028,2
+TOTAL,TOTAL,Adaptation,470727034,1123458361,582914777,2
+TOTAL,TOTAL,Mitigation,111003224,32642534,65806106,2
