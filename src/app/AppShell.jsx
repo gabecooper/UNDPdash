@@ -1,6 +1,5 @@
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Sidebar from "../components/layout/Sidebar";
-import { TopBarOutletContext } from "../components/layout/TopBarOutletContext";
 import { BlurFade } from "../components/ui/blur-fade";
 import { C, F } from "../theme/tokens";
 
@@ -38,14 +37,10 @@ export default function AppShell({
   const [sidebarWidth, setSidebarWidth] = useState(() => getSidebarBounds(typeof window === "undefined" ? 1440 : window.innerWidth).defaultWidth);
   const [hasManualSidebarWidth, setHasManualSidebarWidth] = useState(false);
   const [isResizingSidebar, setIsResizingSidebar] = useState(false);
-  const [topBarOutlet, setTopBarOutlet] = useState(null);
   const rejectedYearTimeoutRef = useRef(null);
   const resizeStateRef = useRef(null);
   const resizeAnimationFrameRef = useRef(null);
   const pendingSidebarWidthRef = useRef(null);
-  const topBarOutletRef = useCallback((node) => {
-    setTopBarOutlet((current) => (current === node ? current : node));
-  }, []);
 
   useEffect(() => {
     if (typeof window === "undefined") return undefined;
@@ -252,9 +247,9 @@ export default function AppShell({
               height: 76,
               transform: "translate(-50%, -50%)",
               borderRadius: 999,
-              background: isResizingSidebar ? "rgba(90,173,186,.65)" : "rgba(138,155,181,.28)",
-              boxShadow: isResizingSidebar ? "0 0 0 5px rgba(118,194,201,.14)" : "none",
-              transition: "background-color .2s ease, box-shadow .2s ease",
+              background: "rgba(138,155,181,.28)",
+              boxShadow: "none",
+              transition: "background-color .2s ease",
             }}
           />
         </button>
@@ -268,27 +263,23 @@ export default function AppShell({
           background: "linear-gradient(180deg, #F5F8FB 0%, #EEF3F6 100%)",
         }}
       >
-        <TopBarOutletContext.Provider value={topBarOutlet}>
-          <div ref={topBarOutletRef} />
-          <BlurFade
-            key={activePage.id}
-            duration={0.22}
-            delay={0.05}
-            offset={12}
-            blur="10px"
-            direction="up"
-            style={{
-              padding: "0 22px 32px",
-              display: "flex",
-              flexDirection: "column",
-              gap: 20,
-              position: "relative",
-              minHeight: "100%",
-            }}
-          >
-            {children}
-          </BlurFade>
-        </TopBarOutletContext.Provider>
+        <BlurFade
+          key={activePage.id}
+          duration={0.22}
+          offset={12}
+          blur="10px"
+          direction="up"
+          style={{
+            padding: "22px 22px 32px",
+            display: "flex",
+            flexDirection: "column",
+            gap: 20,
+            position: "relative",
+            minHeight: "100%",
+          }}
+        >
+          {children}
+        </BlurFade>
       </main>
     </div>
   );
