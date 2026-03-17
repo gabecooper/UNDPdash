@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <script>
+      (function redirectToSpa() {
+        var path = window.location.pathname || "/";
+        var segments = path.split("/").filter(Boolean);
+        var basePath = segments.length ? "/" + segments[0] : "";
+        var routePath = basePath && path.indexOf(basePath) === 0
+          ? path.slice(basePath.length) || "/"
+          : path;
+        var nextUrl = (basePath || "") + "/#" + routePath + (window.location.search || "");
+        window.location.replace(nextUrl);
+      })();
+    </script>
+  </body>
+  </html>

@@ -6,6 +6,10 @@ function getBasePath() {
   return baseUrl.endsWith("/") ? baseUrl.slice(0, -1) : baseUrl;
 }
 
+function shouldUseHashRouting() {
+  return getBasePath() !== "";
+}
+
 function normalizeRoutePath(pathname) {
   if (!pathname) return "/";
 
@@ -27,6 +31,12 @@ function toBrowserPath(routePath) {
 }
 
 function getCurrentPathname() {
+  if (shouldUseHashRouting()) {
+    const hash = window.location.hash || "";
+    const normalizedHash = hash.startsWith("#") ? hash.slice(1) : hash;
+    return normalizedHash || "/";
+  }
+
   return normalizeRoutePath(window.location.pathname);
 }
 
@@ -46,6 +56,15 @@ export function usePathRouter() {
     const normalizedNextPath = nextPath.startsWith("/") ? nextPath : `/${nextPath}`;
     const currentPath = getCurrentPathname();
     if (currentPath === normalizedNextPath) return;
+
+    if (shouldUseHashRouting()) {
+      const method = replace ? "replaceState" : "pushState";
+      const hashPath = `#${normalizedNextPath}`;
+      const browserPath = `${toBrowserPath("/")}${hashPath}`;
+      window.history[method]({}, "", browserPath);
+      setPathname(normalizedNextPath);
+      return;
+    }
 
     const method = replace ? "replaceState" : "pushState";
     window.history[method]({}, "", toBrowserPath(normalizedNextPath));
