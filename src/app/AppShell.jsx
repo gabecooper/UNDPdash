@@ -1,5 +1,7 @@
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import Sidebar from "../components/layout/Sidebar";
+import { TopBarOutletContext } from "../components/layout/TopBarOutletContext";
+import { BlurFade } from "../components/ui/blur-fade";
 import { C, F } from "../theme/tokens";
 
 const SIDEBAR_WIDTH_STORAGE_KEY = "undp-dashboard-sidebar-width";
@@ -32,16 +34,18 @@ export default function AppShell({
   children,
 }) {
   const [rejectedYear, setRejectedYear] = useState(null);
-  const [isContentVisible, setIsContentVisible] = useState(true);
   const [viewportWidth, setViewportWidth] = useState(() => (typeof window === "undefined" ? 1440 : window.innerWidth));
   const [sidebarWidth, setSidebarWidth] = useState(() => getSidebarBounds(typeof window === "undefined" ? 1440 : window.innerWidth).defaultWidth);
   const [hasManualSidebarWidth, setHasManualSidebarWidth] = useState(false);
   const [isResizingSidebar, setIsResizingSidebar] = useState(false);
+  const [topBarOutlet, setTopBarOutlet] = useState(null);
   const rejectedYearTimeoutRef = useRef(null);
-  const fadeTimeoutRef = useRef(null);
   const resizeStateRef = useRef(null);
   const resizeAnimationFrameRef = useRef(null);
   const pendingSidebarWidthRef = useRef(null);
+  const topBarOutletRef = useCallback((node) => {
+    setTopBarOutlet((current) => (current === node ? current : node));
+  }, []);
 
   useEffect(() => {
     if (typeof window === "undefined") return undefined;
@@ -82,9 +86,6 @@ export default function AppShell({
     if (rejectedYearTimeoutRef.current) {
       clearTimeout(rejectedYearTimeoutRef.current);
     }
-    if (fadeTimeoutRef.current) {
-      clearTimeout(fadeTimeoutRef.current);
-    }
     if (typeof window !== "undefined") {
       window.removeEventListener("pointermove", handleSidebarPointerMove);
       window.removeEventListener("pointerup", stopSidebarResize);
@@ -94,19 +95,6 @@ export default function AppShell({
       cancelAnimationFrame(resizeAnimationFrameRef.current);
     }
   }, []);
-
-  useEffect(() => {
-    setIsContentVisible(false);
-
-    if (fadeTimeoutRef.current) {
-      clearTimeout(fadeTimeoutRef.current);
-    }
-
-    fadeTimeoutRef.current = setTimeout(() => {
-      setIsContentVisible(true);
-      fadeTimeoutRef.current = null;
-    }, 40);
-  }, [activePage.id]);
 
   useEffect(() => {
     if (!isResizingSidebar || typeof document === "undefined") return undefined;
@@ -280,20 +268,27 @@ export default function AppShell({
           background: "linear-gradient(180deg, #F5F8FB 0%, #EEF3F6 100%)",
         }}
       >
-        <div
-          style={{
-            padding: "22px 22px 32px",
-            display: "flex",
-            flexDirection: "column",
-            gap: 20,
-            position: "relative",
-            minHeight: "100%",
-            opacity: isContentVisible ? 1 : 0,
-            transition: "opacity 150ms ease",
-          }}
-        >
-          {children}
-        </div>
+        <TopBarOutletContext.Provider value={topBarOutlet}>
+          <div ref={topBarOutletRef} />
+          <BlurFade
+            key={activePage.id}
+            duration={0.22}
+            delay={0.05}
+            offset={12}
+            blur="10px"
+            direction="up"
+            style={{
+              padding: "0 22px 32px",
+              display: "flex",
+              flexDirection: "column",
+              gap: 20,
+              position: "relative",
+              minHeight: "100%",
+            }}
+          >
+            {children}
+          </BlurFade>
+        </TopBarOutletContext.Provider>
       </main>
     </div>
   );

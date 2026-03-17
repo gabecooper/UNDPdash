@@ -1,4 +1,6 @@
+import { createPortal } from "react-dom";
 import { C, F } from "../../theme/tokens";
+import { useTopBarOutlet } from "./TopBarOutletContext";
 
 function IconButton({ children, title, onClick, disabled }) {
   return (
@@ -27,7 +29,9 @@ function IconButton({ children, title, onClick, disabled }) {
 }
 
 export default function TopBar({ title, meta, onDownload, downloadDisabled }) {
-  return (
+  const outlet = useTopBarOutlet();
+
+  const content = (
     <div
       style={{
         display: "flex",
@@ -91,4 +95,6 @@ export default function TopBar({ title, meta, onDownload, downloadDisabled }) {
       </div>
     </div>
   );
+
+  return outlet ? createPortal(content, outlet) : content;
 }

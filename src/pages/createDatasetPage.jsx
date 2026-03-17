@@ -1,5 +1,6 @@
 import { startTransition, useDeferredValue, useEffect, useMemo, useState } from "react";
 import PageStateCard from "../components/common/PageStateCard";
+import PageTransitionPlaceholder from "../components/common/PageTransitionPlaceholder";
 import { downloadCsv } from "../data/csvLoaders";
 import { useDataset } from "../hooks/useDataset";
 
@@ -38,13 +39,7 @@ export function createDatasetPage({
     }, [datasetState.data, datasetState.status, deferredSearchQuery, page, selectedYears]);
 
     if (datasetState.status === "loading" || viewModel == null) {
-      return (
-        <PageStateCard
-          eyebrow="Loading"
-          title={`Loading ${page.navLabel}`}
-          description={loadingDescription}
-        />
-      );
+      return <PageTransitionPlaceholder />;
     }
 
     if (datasetState.status === "error") {

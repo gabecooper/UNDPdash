@@ -2,19 +2,13 @@ import { Suspense, useEffect, useMemo, useState } from "react";
 import AppShell from "./app/AppShell";
 import { getDefaultPage, pageSections, findPageByPath } from "./app/pageRegistry";
 import { pageComponents } from "./app/pageComponents";
+import PageTransitionPlaceholder from "./components/common/PageTransitionPlaceholder";
 import RenderErrorBoundary from "./components/common/RenderErrorBoundary";
 import { usePathRouter } from "./app/usePathRouter";
-import PageStateCard from "./components/common/PageStateCard";
 import { sortYears } from "./data/yearFields";
 
 function RouteFallback() {
-  return (
-    <PageStateCard
-      eyebrow="Loading"
-      title="Loading dashboard route"
-      description="Page code is being loaded lazily for the current route."
-    />
-  );
+  return <PageTransitionPlaceholder />;
 }
 
 export default function App() {
