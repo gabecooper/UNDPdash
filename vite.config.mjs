@@ -2,7 +2,14 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import path from "node:path";
 
+const repositoryName = process.env.GITHUB_REPOSITORY?.split("/")[1];
+const inferredBase = process.env.GITHUB_ACTIONS === "true" && repositoryName
+  ? `/${repositoryName}/`
+  : "/";
+const base = process.env.VITE_BASE_PATH || inferredBase;
+
 export default defineConfig({
+  base,
   plugins: [react()],
   resolve: {
     alias: {
