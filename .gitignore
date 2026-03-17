@@ -12,6 +12,7 @@ lerna-debug.log*
 *.key
 *.p12
 *.pfx
+UNDP_Dash/
 
 node_modules
 dist
