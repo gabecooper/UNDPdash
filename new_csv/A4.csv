@@ -1,0 +1,904 @@
+Ref,Dept_Name,Agency_Name,Appropriation_Type,Category,Item_Name,2024_Actual_NG,2024_Actual_GOCC,2024_Actual_LGU,2024_Actual_TOTAL,2025_Program_NG,2025_Program_GOCC,2025_Program_LGU,2025_Program_TOTAL,2026_GAA_NG,2026_GAA_GOCC,2026_GAA_LGU,2026_GAA_TOTAL,Page_No
+1,Congress of the Philippines (CONGRESS),Senate,New General Appropriations,Building and Other Structures Outlay,Buildings,2950000,0,0,2950000,2609900,0,0,2609900,0,0,0,0,1
+2,Congress of the Philippines (CONGRESS),Senate,Continuing Appropriations,Building and Other Structures Outlay,Buildings,1565000,0,0,1565000,0,0,0,0,0,0,0,0,1
+3,Congress of the Philippines (CONGRESS),House of Representatives,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,400000,0,0,400000,1
+4,Congress of the Philippines (CONGRESS),House of Representatives,New General Appropriations,Building and Other Structures Outlay,Other Structures,2100085,0,0,2100085,1800000,0,0,1800000,0,0,0,0,1
+5,Congress of the Philippines (CONGRESS),House of Representatives,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,607300,0,0,607300,0,0,0,0,0,0,0,0,1
+6,Office of the President (OP),The President's Offices,New General Appropriations,Land Improvements Outlay,Other Land Improvements,0,0,0,0,0,0,0,0,16300,0,0,16300,1
+7,Office of the President (OP),The President's Offices,New General Appropriations,Building and Other Structures Outlay,Buildings,1192062,0,0,1192062,905994,0,0,905994,558300,0,0,558300,1
+8,Office of the President (OP),The President's Offices,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,91695,0,0,91695,0,0,0,0,2
+9,Office of the President (OP),The President's Offices,New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,5000,0,0,5000,2
+10,Office of the President (OP),The President's Offices,Continuing Appropriations,Building and Other Structures Outlay,Buildings,19165,0,0,19165,0,0,0,0,0,0,0,0,2
+11,Department of Agrarian Reform (DAR),Office of the Secretary,New General Appropriations,Land Improvements Outlay,Other Land Improvements,0,0,0,0,3726,0,0,3726,0,0,0,0,2
+12,Department of Agrarian Reform (DAR),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Road Networks,0,0,0,0,0,0,0,0,666585,0,0,666585,2
+13,Department of Agrarian Reform (DAR),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,485,0,0,485,125773,0,0,125773,2
+14,Department of Agrarian Reform (DAR),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,162,0,0,162,13753,0,0,13753,2
+15,Department of Agrarian Reform (DAR),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,20149,0,0,20149,0,0,0,0,0,0,0,0,2
+16,Department of Agrarian Reform (DAR),Office of the Secretary,Automatic Appropriations,Infrastructure Outlay,Road Networks,2515900,0,0,2515900,0,0,0,0,0,0,0,0,3
+17,Department of Agrarian Reform (DAR),Office of the Secretary,Automatic Appropriations,Infrastructure Outlay,Water Supply Systems,103500,0,0,103500,0,0,0,0,0,0,0,0,3
+18,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Land Improvements Outlay,Other Land Improvements,48673,0,0,48673,161710,0,0,161710,320889,0,0,320889,3
+19,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Road Networks,0,0,0,0,31412548,0,0,31412548,37822712,0,0,37822712,3
+20,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Water Supply Systems,1330314,0,0,1330314,4049028,0,0,4049028,2922131,0,0,2922131,3
+21,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,0,0,0,0,7485,0,0,7485,3
+22,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,5480,0,0,5480,0,0,0,0,3
+23,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,735150,0,0,735150,614997,0,0,614997,3327457,0,0,3327457,3
+24,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,1223194,0,0,1223194,1409979,0,0,1409979,4880671,0,0,4880671,3
+25,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Slaughterhouses,0,0,0,0,1800,0,0,1800,0,0,0,0,3
+26,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,12600,0,0,12600,3
+27,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,956122,0,0,956122,2614221,0,0,2614221,1789022,0,0,1789022,3
+28,Department of Agriculture (DA),Office of the Secretary,New General Appropriations,Transportation Equipment Outlay,Watercrafts,0,0,0,0,0,0,0,0,650,0,0,650,4
+29,Department of Agriculture (DA),Office of the Secretary,Continuing Appropriations,Land Improvements Outlay,Other Land Improvements,12138,0,0,12138,0,0,0,0,0,0,0,0,4
+30,Department of Agriculture (DA),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Water Supply Systems,18966,0,0,18966,0,0,0,0,0,0,0,0,4
+31,Department of Agriculture (DA),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Communications Networks,311,0,0,311,0,0,0,0,0,0,0,0,4
+32,Department of Agriculture (DA),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,199892,0,0,199892,0,0,0,0,0,0,0,0,4
+33,Department of Agriculture (DA),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,167815,0,0,167815,0,0,0,0,0,0,0,0,4
+34,Department of Agriculture (DA),Office of the Secretary,Automatic Appropriations,Infrastructure Outlay,Road Networks,197137,0,0,197137,0,0,0,0,0,0,0,0,4
+35,Department of Agriculture (DA),Office of the Secretary,Automatic Appropriations,Infrastructure Outlay,Water Supply Systems,57571,0,0,57571,0,0,0,0,0,0,0,0,4
+36,Department of Agriculture (DA),Office of the Secretary,Automatic Appropriations,Infrastructure Outlay,Other Infrastructure Assets,1020,0,0,1020,0,0,0,0,0,0,0,0,4
+37,Department of Agriculture (DA),Office of the Secretary,Automatic Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,19500,0,0,19500,0,0,0,0,4
+38,Department of Agriculture (DA),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Road Networks,5013687,0,0,5013687,0,0,0,0,0,0,0,0,5
+39,Department of Agriculture (DA),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Water Supply Systems,423199,0,0,423199,0,0,0,0,0,0,0,0,5
+40,Department of Agriculture (DA),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Other Infrastructure Assets,1164681,0,0,1164681,0,0,0,0,0,0,0,0,5
+41,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,New General Appropriations,Land Improvements Outlay,Aquaculture Structures,12742,0,0,12742,236090,0,0,236090,181195,0,0,181195,5
+42,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,New General Appropriations,Land Improvements Outlay,Other Land Improvements,6472,0,0,6472,140009,0,0,140009,3000,0,0,3000,5
+43,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,10000,0,0,10000,31175,0,0,31175,5
+44,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,New General Appropriations,Infrastructure Outlay,Power Supply Systems,21490,0,0,21490,17100,0,0,17100,27519,0,0,27519,5
+45,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,14142,0,0,14142,179566,0,0,179566,67906,0,0,67906,5
+46,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,New General Appropriations,Building and Other Structures Outlay,Buildings,65784,0,0,65784,210120,0,0,210120,70360,0,0,70360,5
+47,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,4000,0,0,4000,0,0,0,0,5
+48,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,New General Appropriations,Building and Other Structures Outlay,Other Structures,23447,0,0,23447,1302908,0,0,1302908,1431042,0,0,1431042,5
+49,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,New General Appropriations,Transportation Equipment Outlay,Watercrafts,0,0,0,0,0,0,0,0,529695,0,0,529695,5
+50,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,Continuing Appropriations,Land Improvements Outlay,Aquaculture Structures,68200,0,0,68200,0,0,0,0,0,0,0,0,6
+51,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,Continuing Appropriations,Land Improvements Outlay,Other Land Improvements,292,0,0,292,0,0,0,0,0,0,0,0,6
+52,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,3356,0,0,3356,0,0,0,0,0,0,0,0,6
+53,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,Continuing Appropriations,Building and Other Structures Outlay,Buildings,2186,0,0,2186,0,0,0,0,0,0,0,0,6
+54,Department of Agriculture (DA),Bureau of Fisheries and Aquatic Resources,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,43151,0,0,43151,0,0,0,0,0,0,0,0,6
+55,Department of Agriculture (DA),Fertilizer and Pesticide Authority,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,31800,0,0,31800,6
+56,Department of Agriculture (DA),Fertilizer and Pesticide Authority,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,20000,0,0,20000,0,0,0,0,6
+57,Department of Agriculture (DA),National Fisheries Research and Development Institute,New General Appropriations,Land Improvements Outlay,Aquaculture Structures,4000,0,0,4000,0,0,0,0,0,0,0,0,6
+58,Department of Agriculture (DA),National Fisheries Research and Development Institute,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,113000,0,0,113000,164000,0,0,164000,6
+59,Department of Agriculture (DA),National Fisheries Research and Development Institute,New General Appropriations,Building and Other Structures Outlay,Other Structures,596,0,0,596,0,0,0,0,0,0,0,0,7
+60,Department of Agriculture (DA),National Meat Inspection Service,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,100000,0,0,100000,7
+61,Department of Agriculture (DA),Philippine Carabao Center,New General Appropriations,Building and Other Structures Outlay,Other Structures,73350,0,0,73350,39450,0,0,39450,8700,0,0,8700,7
+62,Department of Agriculture (DA),Philippine Center For Postharvest Development and Mechanization,New General Appropriations,Building and Other Structures Outlay,Other Structures,21,0,0,21,0,0,0,0,0,0,0,0,7
+63,Department of Agriculture (DA),Philippine Fiber Industry Development Authority,New General Appropriations,Land Improvements Outlay,Other Land Improvements,0,0,0,0,4000,0,0,4000,0,0,0,0,7
+64,Department of Agriculture (DA),Philippine Fiber Industry Development Authority,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,9800,0,0,9800,7
+65,Department of Agriculture (DA),Philippine Fiber Industry Development Authority,New General Appropriations,Building and Other Structures Outlay,Buildings,21179,0,0,21179,0,0,0,0,2682,0,0,2682,8
+66,Department of Agriculture (DA),Philippine Fiber Industry Development Authority,New General Appropriations,Building and Other Structures Outlay,Other Structures,1956,0,0,1956,12120,0,0,12120,0,0,0,0,8
+67,Department of Agriculture (DA),Philippine Fiber Industry Development Authority,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,2963,0,0,2963,0,0,0,0,0,0,0,0,8
+68,Department of Budget and Management (DBM),Office of the Secretary,New General Appropriations,Land Improvements Outlay,Other Land Improvements,4951,0,0,4951,2487,0,0,2487,10000,0,0,10000,8
+69,Department of Budget and Management (DBM),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,700,0,0,700,0,0,0,0,8
+70,Department of Budget and Management (DBM),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,26894,0,0,26894,0,0,0,0,8
+71,Department of Budget and Management (DBM),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,14530,0,0,14530,8
+72,Department of Budget and Management (DBM),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,32820,0,0,32820,53846,0,0,53846,23438,0,0,23438,8
+73,Department of Budget and Management (DBM),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,8795,0,0,8795,6000,0,0,6000,5761,0,0,5761,8
+74,Department of Budget and Management (DBM),Government Procurement Policy Board-Technical Support Office,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,43000,0,0,43000,9
+75,Department of Education (DepEd),Office of the Secretary,New General Appropriations,Semi-Expendable Furniture Fixtures and Books Expenses,Furniture and Fixtures,0,0,0,0,2615216,0,0,2615216,2615216,0,0,2615216,9
+76,Department of Education (DepEd),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Power Supply Systems,17605,0,0,17605,0,0,0,0,0,0,0,0,9
+77,Department of Education (DepEd),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,1262729,0,0,1262729,1100000,0,0,1100000,1000000,0,0,1000000,9
+78,Department of Education (DepEd),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,School Buildings,6159093,0,0,6159093,32574765,0,0,32574765,93636268,0,0,93636268,9
+79,Department of Education (DepEd),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,101383,0,0,101383,0,0,0,0,42000,0,0,42000,9
+80,Department of Education (DepEd),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,214260,0,0,214260,0,0,0,0,2840310,0,0,2840310,9
+81,Department of Education (DepEd),Office of the Secretary,Continuing Appropriations,Semi-Expendable Furniture Fixtures and Books Expenses,Furniture and Fixtures,1350544,0,0,1350544,0,0,0,0,0,0,0,0,9
+82,Department of Education (DepEd),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,495905,0,0,495905,0,0,0,0,0,0,0,0,9
+83,Department of Education (DepEd),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,1090609,0,0,1090609,0,0,0,0,0,0,0,0,10
+84,Department of Education (DepEd),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,12409,0,0,12409,0,0,0,0,0,0,0,0,10
+85,Department of Education (DepEd),National Museum of the Philippines,New General Appropriations,Building and Other Structures Outlay,Buildings,345159,0,0,345159,739244,0,0,739244,130000,0,0,130000,10
+86,Department of Education (DepEd),National Museum of the Philippines,Continuing Appropriations,Building and Other Structures Outlay,Buildings,33972,0,0,33972,0,0,0,0,0,0,0,0,10
+87,Department of Education (DepEd),Philippine High School for the Arts,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,77917,0,0,77917,10
+88,Department of Education (DepEd),Philippine High School for the Arts,Continuing Appropriations,Infrastructure Outlay,Water Supply Systems,600,0,0,600,0,0,0,0,0,0,0,0,10
+89,Department of Education (DepEd),Early Childhood Care and Development Council,New General Appropriations,Assistance to Local Government Units,Financial Assistance to Local Government Units,217405,0,0,217405,300988,0,0,300988,0,0,0,0,11
+90,Department of Education (DepEd),Early Childhood Care and Development Council,Continuing Appropriations,Assistance to Local Government Units,Financial Assistance to Local Government Units,9060,0,0,9060,0,0,0,0,0,0,0,0,11
+91,State Universities and Colleges (SUCs),Marikina Polytechnic College,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,15000,0,0,15000,11
+92,State Universities and Colleges (SUCs),Marikina Polytechnic College,Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,24249,0,0,24249,0,0,0,0,0,0,0,0,11
+93,State Universities and Colleges (SUCs),Philippine Normal University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,185000,0,0,185000,460800,0,0,460800,11
+94,State Universities and Colleges (SUCs),National Aviation Academy of the Philippines,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,12000,0,0,12000,12
+95,State Universities and Colleges (SUCs),Polytechnic University of the Philippines,New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,80000,0,0,80000,0,0,0,0,12
+96,State Universities and Colleges (SUCs),Polytechnic University of the Philippines,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,100000,0,0,100000,12
+97,State Universities and Colleges (SUCs),Polytechnic University of the Philippines,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,30000,0,0,30000,65000,0,0,65000,12
+98,State Universities and Colleges (SUCs),Polytechnic University of the Philippines,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,10000,0,0,10000,0,0,0,0,12
+99,State Universities and Colleges (SUCs),Polytechnic University of the Philippines,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,60000,0,0,60000,0,0,0,0,12
+100,State Universities and Colleges (SUCs),Polytechnic University of the Philippines,Continuing Appropriations,Infrastructure Outlay,Communications Networks,3488,0,0,3488,0,0,0,0,0,0,0,0,12
+101,State Universities and Colleges (SUCs),Rizal Technological University,New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,0,0,0,0,50000,0,0,50000,12
+102,State Universities and Colleges (SUCs),Rizal Technological University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,12500,0,0,12500,0,0,0,0,13
+103,State Universities and Colleges (SUCs),Technological University of the Philippines,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,10000,0,0,10000,0,0,0,0,13
+104,State Universities and Colleges (SUCs),Technological University of the Philippines,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,40000,0,0,40000,13
+105,State Universities and Colleges (SUCs),University of the Philippines System,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,280000,0,0,280000,13
+106,State Universities and Colleges (SUCs),University of the Philippines System,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,177529,0,0,177529,0,0,0,0,13
+107,State Universities and Colleges (SUCs),University of the Philippines System,New General Appropriations,Building and Other Structures Outlay,School Buildings,587000,0,0,587000,0,0,0,0,300000,0,0,300000,13
+108,State Universities and Colleges (SUCs),University of the Philippines System,New General Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,0,0,0,0,0,0,0,0,450000,0,0,450000,13
+109,State Universities and Colleges (SUCs),University of the Philippines System,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,21460,0,0,21460,13
+110,State Universities and Colleges (SUCs),University of the Philippines System,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,135000,0,0,135000,95131,0,0,95131,13
+111,State Universities and Colleges (SUCs),University of the Philippines System,Continuing Appropriations,Building and Other Structures Outlay,Buildings,1256676,0,0,1256676,0,0,0,0,0,0,0,0,14
+112,State Universities and Colleges (SUCs),University of the Philippines System,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,115278,0,0,115278,0,0,0,0,0,0,0,0,14
+113,State Universities and Colleges (SUCs),University of the Philippines System,Continuing Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,204107,0,0,204107,0,0,0,0,0,0,0,0,14
+114,State Universities and Colleges (SUCs),Don Mariano Marcos Memorial State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,70000,0,0,70000,70000,0,0,70000,14
+115,State Universities and Colleges (SUCs),Don Mariano Marcos Memorial State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,5000,0,0,5000,0,0,0,0,160000,0,0,160000,14
+116,State Universities and Colleges (SUCs),Don Mariano Marcos Memorial State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,49691,0,0,49691,0,0,0,0,0,0,0,0,14
+117,State Universities and Colleges (SUCs),Philippine Energy Research and Policy Institute,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,12500,0,0,12500,0,0,0,0,14
+118,State Universities and Colleges (SUCs),Ilocos Sur Polytechnic State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,20000,0,0,20000,99650,0,0,99650,14
+119,State Universities and Colleges (SUCs),Ilocos Sur Polytechnic State College,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,20000,0,0,20000,15
+120,State Universities and Colleges (SUCs),Mariano Marcos State University,New General Appropriations,Infrastructure Outlay,Road Networks,0,0,0,0,0,0,0,0,100000,0,0,100000,15
+121,State Universities and Colleges (SUCs),Mariano Marcos State University,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,10000,0,0,10000,15
+122,State Universities and Colleges (SUCs),Mariano Marcos State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,160000,0,0,160000,15
+123,State Universities and Colleges (SUCs),Mariano Marcos State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,4984,0,0,4984,40000,0,0,40000,351000,0,0,351000,15
+124,State Universities and Colleges (SUCs),Mariano Marcos State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,9000,0,0,9000,15
+125,State Universities and Colleges (SUCs),Mariano Marcos State University,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,1497327,0,0,1497327,0,0,0,0,0,0,0,0,15
+126,State Universities and Colleges (SUCs),Mariano Marcos State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,10590,0,0,10590,0,0,0,0,0,0,0,0,15
+127,State Universities and Colleges (SUCs),Pangasinan State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,70000,0,0,70000,104000,0,0,104000,16
+128,State Universities and Colleges (SUCs),University of Northern Philippines,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,31000,0,0,31000,105000,0,0,105000,16
+129,State Universities and Colleges (SUCs),University of Northern Philippines,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,35000,0,0,35000,16
+130,State Universities and Colleges (SUCs),University of Northern Philippines,Continuing Appropriations,Building and Other Structures Outlay,Buildings,2631,0,0,2631,0,0,0,0,0,0,0,0,16
+131,State Universities and Colleges (SUCs),Abra State Institute of Sciences and Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,275000,0,0,275000,38000,0,0,38000,16
+132,State Universities and Colleges (SUCs),Abra State Institute of Sciences and Technology,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,100000,0,0,100000,0,0,0,0,16
+133,State Universities and Colleges (SUCs),Apayao State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,134000,0,0,134000,30000,0,0,30000,16
+134,State Universities and Colleges (SUCs),Apayao State College,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,10257,0,0,10257,0,0,0,0,0,0,0,0,17
+135,State Universities and Colleges (SUCs),Benguet State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,30000,0,0,30000,17
+136,State Universities and Colleges (SUCs),Ifugao State University,New General Appropriations,Land Improvements Outlay,Aquaculture Structures,559,0,0,559,0,0,0,0,0,0,0,0,17
+137,State Universities and Colleges (SUCs),Ifugao State University,New General Appropriations,Infrastructure Outlay,Water Supply Systems,596,0,0,596,0,0,0,0,100,0,0,100,17
+138,State Universities and Colleges (SUCs),Ifugao State University,New General Appropriations,Infrastructure Outlay,Power Supply Systems,398,0,0,398,1110,0,0,1110,0,0,0,0,17
+139,State Universities and Colleges (SUCs),Ifugao State University,New General Appropriations,Building and Other Structures Outlay,Buildings,4579,0,0,4579,0,0,0,0,1500,0,0,1500,17
+140,State Universities and Colleges (SUCs),Ifugao State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,45000,0,0,45000,20000,0,0,20000,17
+141,State Universities and Colleges (SUCs),Ifugao State University,New General Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,7358,0,0,7358,0,0,0,0,10000,0,0,10000,17
+142,State Universities and Colleges (SUCs),Ifugao State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,60000,0,0,60000,17
+143,State Universities and Colleges (SUCs),Ifugao State University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,19,0,0,19,0,0,0,0,0,0,0,0,18
+144,State Universities and Colleges (SUCs),Kalinga State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,15000,0,0,15000,0,0,0,0,18
+145,State Universities and Colleges (SUCs),Kalinga State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,50000,0,0,50000,30000,0,0,30000,18
+146,State Universities and Colleges (SUCs),Kalinga State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,60559,0,0,60559,0,0,0,0,18
+147,State Universities and Colleges (SUCs),Mountain Province State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,15000,0,0,15000,30000,0,0,30000,18
+148,State Universities and Colleges (SUCs),Mountain Province State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,72000,0,0,72000,0,0,0,0,18
+149,State Universities and Colleges (SUCs),Batanes State College,New General Appropriations,Infrastructure Outlay,Power Supply Systems,9988,0,0,9988,30000,0,0,30000,0,0,0,0,18
+150,State Universities and Colleges (SUCs),Batanes State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,92000,0,0,92000,18
+151,State Universities and Colleges (SUCs),Batanes State College,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,1790,0,0,1790,0,0,0,0,0,0,0,0,19
+152,State Universities and Colleges (SUCs),Batanes State College,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,25,0,0,25,0,0,0,0,0,0,0,0,19
+153,State Universities and Colleges (SUCs),Cagayan State University,New General Appropriations,Land Improvements Outlay,Other Land Improvements,484,0,0,484,0,0,0,0,0,0,0,0,19
+154,State Universities and Colleges (SUCs),Cagayan State University,New General Appropriations,Infrastructure Outlay,Water Supply Systems,300,0,0,300,0,0,0,0,0,0,0,0,19
+155,State Universities and Colleges (SUCs),Cagayan State University,New General Appropriations,Infrastructure Outlay,Power Supply Systems,215,0,0,215,0,0,0,0,0,0,0,0,19
+156,State Universities and Colleges (SUCs),Cagayan State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,25000,0,0,25000,19
+157,State Universities and Colleges (SUCs),Cagayan State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,4559,0,0,4559,25000,0,0,25000,45000,0,0,45000,19
+158,State Universities and Colleges (SUCs),Cagayan State University,New General Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,4922,0,0,4922,0,0,0,0,0,0,0,0,19
+159,State Universities and Colleges (SUCs),Cagayan State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,7312,0,0,7312,0,0,0,0,0,0,0,0,19
+160,State Universities and Colleges (SUCs),Cagayan State University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,3796,0,0,3796,0,0,0,0,0,0,0,0,19
+161,State Universities and Colleges (SUCs),Cagayan State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,7104,0,0,7104,0,0,0,0,0,0,0,0,19
+162,State Universities and Colleges (SUCs),Isabela State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,362000,0,0,362000,20
+163,State Universities and Colleges (SUCs),Isabela State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,4710,0,0,4710,0,0,0,0,0,0,0,0,20
+164,State Universities and Colleges (SUCs),Isabela State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,592,0,0,592,0,0,0,0,0,0,0,0,20
+165,State Universities and Colleges (SUCs),Nueva Vizcaya State University,New General Appropriations,Building and Other Structures Outlay,Buildings,4292,0,0,4292,0,0,0,0,0,0,0,0,20
+166,State Universities and Colleges (SUCs),Nueva Vizcaya State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,80000,0,0,80000,20
+167,State Universities and Colleges (SUCs),Quirino State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,10000,0,0,10000,0,0,0,0,20
+168,State Universities and Colleges (SUCs),Quirino State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,35000,0,0,35000,20000,0,0,20000,20
+169,State Universities and Colleges (SUCs),Quirino State University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,252,0,0,252,0,0,0,0,0,0,0,0,20
+170,State Universities and Colleges (SUCs),Aurora State College of Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,12500,0,0,12500,95000,0,0,95000,21
+171,State Universities and Colleges (SUCs),Aurora State College of Technology,Continuing Appropriations,Building and Other Structures Outlay,Buildings,77,0,0,77,0,0,0,0,0,0,0,0,21
+172,State Universities and Colleges (SUCs),Aurora State College of Technology,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,48971,0,0,48971,0,0,0,0,0,0,0,0,21
+173,State Universities and Colleges (SUCs),Aurora State College of Technology,Continuing Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,6217,0,0,6217,0,0,0,0,0,0,0,0,21
+174,State Universities and Colleges (SUCs),Bataan Peninsula State University,New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,25000,0,0,25000,0,0,0,0,21
+175,State Universities and Colleges (SUCs),Bataan Peninsula State University,New General Appropriations,Infrastructure Outlay,Power Supply Systems,816,0,0,816,0,0,0,0,0,0,0,0,21
+176,State Universities and Colleges (SUCs),Bataan Peninsula State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,53000,0,0,53000,8000,0,0,8000,21
+177,State Universities and Colleges (SUCs),Bataan Peninsula State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,35000,0,0,35000,21
+178,State Universities and Colleges (SUCs),Bulacan Agricultural State College,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,33000,0,0,33000,21
+179,State Universities and Colleges (SUCs),Bulacan Agricultural State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,0,0,0,0,22
+180,State Universities and Colleges (SUCs),Bulacan State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,20000,0,0,20000,160000,0,0,160000,22
+181,State Universities and Colleges (SUCs),Bulacan State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,85000,0,0,85000,50000,0,0,50000,22
+182,State Universities and Colleges (SUCs),Bulacan State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,39900,0,0,39900,150000,0,0,150000,22
+183,State Universities and Colleges (SUCs),Central Luzon State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,63471,0,0,63471,40000,0,0,40000,22
+184,State Universities and Colleges (SUCs),Central Luzon State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,59000,0,0,59000,52838,0,0,52838,22
+185,State Universities and Colleges (SUCs),Pampanga State University,New General Appropriations,Building and Other Structures Outlay,Buildings,15000,0,0,15000,27500,0,0,27500,0,0,0,0,22
+186,State Universities and Colleges (SUCs),Pampanga State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,33000,0,0,33000,22
+187,State Universities and Colleges (SUCs),Nueva Ecija University of Science and Technology,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,25000,0,0,25000,50000,0,0,50000,23
+188,State Universities and Colleges (SUCs),Nueva Ecija University of Science and Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,115000,0,0,115000,23
+189,State Universities and Colleges (SUCs),Pampanga State Agricultural University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,25000,0,0,25000,0,0,0,0,23
+190,State Universities and Colleges (SUCs),Pampanga State Agricultural University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,140000,0,0,140000,23
+191,State Universities and Colleges (SUCs),Philippine Merchant Marine Academy,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,38000,0,0,38000,23
+192,State Universities and Colleges (SUCs),President Ramon Magsaysay State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,20000,0,0,20000,0,0,0,0,23
+193,State Universities and Colleges (SUCs),President Ramon Magsaysay State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,20000,0,0,20000,110000,0,0,110000,23
+194,State Universities and Colleges (SUCs),Tarlac Agricultural University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,11000,0,0,11000,50000,0,0,50000,24
+195,State Universities and Colleges (SUCs),Tarlac Agricultural University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,1000,0,0,1000,24
+196,State Universities and Colleges (SUCs),Tarlac State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,40000,0,0,40000,24
+197,State Universities and Colleges (SUCs),Tarlac State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,40000,0,0,40000,50000,0,0,50000,24
+198,State Universities and Colleges (SUCs),Tarlac State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,20000,0,0,20000,0,0,0,0,0,0,0,0,24
+199,State Universities and Colleges (SUCs),Batangas State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,40000,0,0,40000,200000,0,0,200000,24
+200,State Universities and Colleges (SUCs),Batangas State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,150000,0,0,150000,24
+201,State Universities and Colleges (SUCs),Batangas State University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,16878,0,0,16878,0,0,0,0,0,0,0,0,24
+202,State Universities and Colleges (SUCs),Batangas State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,201,0,0,201,0,0,0,0,0,0,0,0,25
+203,State Universities and Colleges (SUCs),Cavite State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,100000,0,0,100000,25
+204,State Universities and Colleges (SUCs),Cavite State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,150000,0,0,150000,92000,0,0,92000,25
+205,State Universities and Colleges (SUCs),Cavite State University,New General Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,0,0,0,0,200000,0,0,200000,0,0,0,0,25
+206,State Universities and Colleges (SUCs),Cavite State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,4999,0,0,4999,7500,0,0,7500,0,0,0,0,25
+207,State Universities and Colleges (SUCs),Cavite State University,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,155750,0,0,155750,0,0,0,0,0,0,0,0,25
+208,State Universities and Colleges (SUCs),Laguna State Polytechnic University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,100000,0,0,100000,194000,0,0,194000,25
+209,State Universities and Colleges (SUCs),Laguna State Polytechnic University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,6054,0,0,6054,25
+210,State Universities and Colleges (SUCs),Laguna State Polytechnic University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,9977,0,0,9977,0,0,0,0,0,0,0,0,26
+211,State Universities and Colleges (SUCs),Southern Luzon State University,New General Appropriations,Infrastructure Outlay,Sewer Systems,0,0,0,0,30000,0,0,30000,0,0,0,0,26
+212,State Universities and Colleges (SUCs),Southern Luzon State University,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,0,0,0,0,50000,0,0,50000,26
+213,State Universities and Colleges (SUCs),Southern Luzon State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,4998,0,0,4998,0,0,0,0,10000,0,0,10000,26
+214,State Universities and Colleges (SUCs),Southern Luzon State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,96230,0,0,96230,0,0,0,0,0,0,0,0,26
+215,State Universities and Colleges (SUCs),University of Rizal System,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,12500,0,0,12500,12000,0,0,12000,26
+216,State Universities and Colleges (SUCs),Marinduque State University,New General Appropriations,Infrastructure Outlay,Sewer Systems,0,0,0,0,0,0,0,0,8000,0,0,8000,26
+217,State Universities and Colleges (SUCs),Marinduque State University,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,1699205,0,0,1699205,0,0,0,0,0,0,0,0,27
+218,State Universities and Colleges (SUCs),Marinduque State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,12000,0,0,12000,27
+219,State Universities and Colleges (SUCs),Mindoro State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,12500,0,0,12500,30000,0,0,30000,27
+220,State Universities and Colleges (SUCs),Occidental Mindoro State College,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,12500,0,0,12500,0,0,0,0,27
+221,State Universities and Colleges (SUCs),Occidental Mindoro State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,30000,0,0,30000,27
+222,State Universities and Colleges (SUCs),Occidental Mindoro State College,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,10000,0,0,10000,27
+223,State Universities and Colleges (SUCs),Occidental Mindoro State College,Continuing Appropriations,Building and Other Structures Outlay,Buildings,1528,0,0,1528,0,0,0,0,0,0,0,0,27
+224,State Universities and Colleges (SUCs),Palawan State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,15000,0,0,15000,28
+225,State Universities and Colleges (SUCs),Romblon State University,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,1599696,0,0,1599696,0,0,0,0,0,0,0,0,28
+226,State Universities and Colleges (SUCs),Romblon State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,10000,0,0,10000,0,0,0,0,28
+227,State Universities and Colleges (SUCs),Romblon State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,48000,0,0,48000,28
+228,State Universities and Colleges (SUCs),Romblon State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,181,0,0,181,0,0,0,0,0,0,0,0,28
+229,State Universities and Colleges (SUCs),Western Philippines University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,50000,0,0,50000,30000,0,0,30000,28
+230,State Universities and Colleges (SUCs),Western Philippines University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,3188,0,0,3188,0,0,0,0,0,0,0,0,28
+231,State Universities and Colleges (SUCs),Bicol University,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,848047,0,0,848047,0,0,0,0,0,0,0,0,29
+232,State Universities and Colleges (SUCs),Bicol University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,24000,0,0,24000,30000,0,0,30000,29
+233,State Universities and Colleges (SUCs),Bicol University,New General Appropriations,Building and Other Structures Outlay,Other Structures,220000,0,0,220000,0,0,0,0,50000,0,0,50000,29
+234,State Universities and Colleges (SUCs),Bicol University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,1249,0,0,1249,0,0,0,0,0,0,0,0,29
+235,State Universities and Colleges (SUCs),Bicol State College of Applied Sciences and Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,12500,0,0,12500,15000,0,0,15000,29
+236,State Universities and Colleges (SUCs),Bicol State College of Applied Sciences and Technology,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,25000,0,0,25000,0,0,0,0,0,0,0,0,29
+237,State Universities and Colleges (SUCs),Camarines Norte State College,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,40000,0,0,40000,0,0,0,0,29
+238,State Universities and Colleges (SUCs),Camarines Norte State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,90000,0,0,90000,75000,0,0,75000,29
+239,State Universities and Colleges (SUCs),Camarines Norte State College,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,50,0,0,50,0,0,0,0,0,0,0,0,30
+240,State Universities and Colleges (SUCs),Camarines Sur Polytechnic Colleges,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,145000,0,0,145000,30
+241,State Universities and Colleges (SUCs),Camarines Sur Polytechnic Colleges,Continuing Appropriations,Building and Other Structures Outlay,Buildings,51187,0,0,51187,0,0,0,0,0,0,0,0,30
+242,State Universities and Colleges (SUCs),Catanduanes State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,109000,0,0,109000,82764,0,0,82764,30
+243,State Universities and Colleges (SUCs),Catanduanes State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,60000,0,0,60000,30
+244,State Universities and Colleges (SUCs),Catanduanes State University,Continuing Appropriations,Infrastructure Outlay,Water Supply Systems,1196,0,0,1196,0,0,0,0,0,0,0,0,30
+245,State Universities and Colleges (SUCs),Central Bicol State University of Agriculture,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,12500,0,0,12500,8000,0,0,8000,31
+246,State Universities and Colleges (SUCs),Central Bicol State University of Agriculture,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,12000,0,0,12000,31
+247,State Universities and Colleges (SUCs),Central Bicol State University of Agriculture,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,225000,0,0,225000,0,0,0,0,31
+248,State Universities and Colleges (SUCs),Central Bicol State University of Agriculture,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,1248574,0,0,1248574,0,0,0,0,0,0,0,0,31
+249,State Universities and Colleges (SUCs),Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,10000,0,0,10000,0,0,0,0,31
+250,State Universities and Colleges (SUCs),Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,38000,0,0,38000,31
+251,State Universities and Colleges (SUCs),Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,10000,0,0,10000,0,0,0,0,31
+252,State Universities and Colleges (SUCs),Partido State University,New General Appropriations,Building and Other Structures Outlay,Buildings,3815,0,0,3815,12500,0,0,12500,65811,0,0,65811,31
+253,State Universities and Colleges (SUCs),Partido State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,4746,0,0,4746,0,0,0,0,96219,0,0,96219,31
+254,State Universities and Colleges (SUCs),Sorsogon State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,45000,0,0,45000,0,0,0,0,32
+255,State Universities and Colleges (SUCs),Sorsogon State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,50000,0,0,50000,32
+256,State Universities and Colleges (SUCs),Sorsogon State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,36000,0,0,36000,32
+257,State Universities and Colleges (SUCs),Sorsogon State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,40,0,0,40,0,0,0,0,0,0,0,0,32
+258,State Universities and Colleges (SUCs),Aklan State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,15000,0,0,15000,30000,0,0,30000,32
+259,State Universities and Colleges (SUCs),Aklan State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,3971,0,0,3971,0,0,0,0,0,0,0,0,32
+260,State Universities and Colleges (SUCs),Aklan State University,Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,862,0,0,862,0,0,0,0,0,0,0,0,32
+261,State Universities and Colleges (SUCs),Aklan State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,2247,0,0,2247,0,0,0,0,0,0,0,0,32
+262,State Universities and Colleges (SUCs),Capiz State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,30000,0,0,30000,33
+263,State Universities and Colleges (SUCs),Capiz State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,55000,0,0,55000,90000,0,0,90000,33
+264,State Universities and Colleges (SUCs),Capiz State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,2984,0,0,2984,0,0,0,0,0,0,0,0,33
+265,State Universities and Colleges (SUCs),Capiz State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,4303,0,0,4303,0,0,0,0,0,0,0,0,33
+266,State Universities and Colleges (SUCs),Carlos Hilado Memorial State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,54803,0,0,54803,33
+267,State Universities and Colleges (SUCs),Carlos Hilado Memorial State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,12500,0,0,12500,0,0,0,0,33
+268,State Universities and Colleges (SUCs),Carlos Hilado Memorial State University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,11,0,0,11,0,0,0,0,0,0,0,0,33
+269,State Universities and Colleges (SUCs),Guimaras State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,30000,0,0,30000,34
+270,State Universities and Colleges (SUCs),Guimaras State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,8000,0,0,8000,34
+271,State Universities and Colleges (SUCs),Guimaras State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,18500,0,0,18500,0,0,0,0,34
+272,State Universities and Colleges (SUCs),Guimaras State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,26433,0,0,26433,0,0,0,0,0,0,0,0,34
+273,State Universities and Colleges (SUCs),Iloilo State University of Fisheries Science and Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,20000,0,0,20000,34
+274,State Universities and Colleges (SUCs),Iloilo State University of Fisheries Science and Technology,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,22500,0,0,22500,0,0,0,0,34
+275,State Universities and Colleges (SUCs),Central Philippines State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,38000,0,0,38000,34
+276,State Universities and Colleges (SUCs),Northern Iloilo State University,New General Appropriations,Infrastructure Outlay,Power Supply Systems,6495,0,0,6495,0,0,0,0,0,0,0,0,34
+277,State Universities and Colleges (SUCs),Northern Iloilo State University,New General Appropriations,Building and Other Structures Outlay,Buildings,500,0,0,500,0,0,0,0,0,0,0,0,35
+278,State Universities and Colleges (SUCs),Northern Iloilo State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,2988,0,0,2988,15000,0,0,15000,32000,0,0,32000,35
+279,State Universities and Colleges (SUCs),Northern Iloilo State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,11500,0,0,11500,0,0,0,0,35
+280,State Universities and Colleges (SUCs),State University of Northern Negros,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,202125,0,0,202125,38000,0,0,38000,35
+281,State Universities and Colleges (SUCs),State University of Northern Negros,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,23275,0,0,23275,0,0,0,0,35
+282,State Universities and Colleges (SUCs),State University of Northern Negros,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,456,0,0,456,0,0,0,0,0,0,0,0,35
+283,State Universities and Colleges (SUCs),University of Antique,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,0,0,0,0,8000,0,0,8000,35
+284,State Universities and Colleges (SUCs),University of Antique,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,26475,0,0,26475,40000,0,0,40000,35
+285,State Universities and Colleges (SUCs),University of Antique,New General Appropriations,Building and Other Structures Outlay,Other Structures,7930,0,0,7930,25000,0,0,25000,0,0,0,0,35
+286,State Universities and Colleges (SUCs),Iloilo Science and Technology University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,42499,0,0,42499,40000,0,0,40000,36
+287,State Universities and Colleges (SUCs),West Visayas State University,New General Appropriations,Infrastructure Outlay,Power Supply Systems,6832,0,0,6832,9050,0,0,9050,0,0,0,0,36
+288,State Universities and Colleges (SUCs),West Visayas State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,4990,0,0,4990,85000,0,0,85000,15000,0,0,15000,36
+289,State Universities and Colleges (SUCs),West Visayas State University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,500000,0,0,500000,0,0,0,0,0,0,0,0,36
+290,State Universities and Colleges (SUCs),West Visayas State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,410065,0,0,410065,0,0,0,0,0,0,0,0,36
+291,State Universities and Colleges (SUCs),Bohol Island State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,12500,0,0,12500,45000,0,0,45000,36
+292,State Universities and Colleges (SUCs),Bohol Island State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,8000,0,0,8000,36
+293,State Universities and Colleges (SUCs),Bohol Island State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,61298,0,0,61298,0,0,0,0,0,0,0,0,36
+294,State Universities and Colleges (SUCs),Cebu Normal University,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,1946696,0,0,1946696,0,0,0,0,0,0,0,0,37
+295,State Universities and Colleges (SUCs),Cebu Normal University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,12500,0,0,12500,0,0,0,0,37
+296,State Universities and Colleges (SUCs),Cebu Normal University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,30000,0,0,30000,37
+297,State Universities and Colleges (SUCs),Cebu Normal University,New General Appropriations,Building and Other Structures Outlay,Other Structures,2969,0,0,2969,0,0,0,0,0,0,0,0,37
+298,State Universities and Colleges (SUCs),Cebu Technological University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,67000,0,0,67000,0,0,0,0,37
+299,State Universities and Colleges (SUCs),Cebu Technological University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,78000,0,0,78000,37
+300,State Universities and Colleges (SUCs),Cebu Technological University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,80000,0,0,80000,37
+301,State Universities and Colleges (SUCs),Cebu Technological University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,48,0,0,48,0,0,0,0,0,0,0,0,37
+302,State Universities and Colleges (SUCs),Negros Oriental State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,40000,0,0,40000,45000,0,0,45000,37
+303,State Universities and Colleges (SUCs),Negros Oriental State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,10000,0,0,10000,0,0,0,0,38
+304,State Universities and Colleges (SUCs),Negros Oriental State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,1700,0,0,1700,0,0,0,0,0,0,0,0,38
+305,State Universities and Colleges (SUCs),Siquijor State College,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,30015,0,0,30015,0,0,0,0,38
+306,State Universities and Colleges (SUCs),Siquijor State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,23000,0,0,23000,38
+307,State Universities and Colleges (SUCs),Siquijor State College,New General Appropriations,Building and Other Structures Outlay,Other Structures,4988,0,0,4988,0,0,0,0,0,0,0,0,38
+308,State Universities and Colleges (SUCs),Siquijor State College,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,91,0,0,91,0,0,0,0,0,0,0,0,38
+309,State Universities and Colleges (SUCs),Eastern Samar State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,0,0,0,0,38
+310,State Universities and Colleges (SUCs),Eastern Samar State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,45000,0,0,45000,38
+311,State Universities and Colleges (SUCs),Eastern Visayas State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,12500,0,0,12500,48000,0,0,48000,39
+312,State Universities and Colleges (SUCs),Eastern Visayas State University,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,799,0,0,799,0,0,0,0,0,0,0,0,39
+313,State Universities and Colleges (SUCs),Eastern Visayas State University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,22174,0,0,22174,0,0,0,0,0,0,0,0,39
+314,State Universities and Colleges (SUCs),Eastern Visayas State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,4850,0,0,4850,0,0,0,0,0,0,0,0,39
+315,State Universities and Colleges (SUCs),Leyte Normal University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,12500,0,0,12500,185000,0,0,185000,39
+316,State Universities and Colleges (SUCs),Leyte Normal University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,50000,0,0,50000,0,0,0,0,0,0,0,0,39
+317,State Universities and Colleges (SUCs),Leyte Normal University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,67564,0,0,67564,0,0,0,0,0,0,0,0,39
+318,State Universities and Colleges (SUCs),Biliran Province State University,New General Appropriations,Infrastructure Outlay,Road Networks,0,0,0,0,0,0,0,0,50000,0,0,50000,39
+319,State Universities and Colleges (SUCs),Biliran Province State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,85000,0,0,85000,72000,0,0,72000,40
+320,State Universities and Colleges (SUCs),Biliran Province State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,125000,0,0,125000,40
+321,State Universities and Colleges (SUCs),Northwest Samar State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,30000,0,0,30000,40
+322,State Universities and Colleges (SUCs),Northwest Samar State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,96400,0,0,96400,0,0,0,0,40
+323,State Universities and Colleges (SUCs),Northwest Samar State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,55000,0,0,55000,40
+324,State Universities and Colleges (SUCs),Northwest Samar State University,Continuing Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,245,0,0,245,0,0,0,0,0,0,0,0,40
+325,State Universities and Colleges (SUCs),Palompon Institute of Technology,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,33575,0,0,33575,40
+326,State Universities and Colleges (SUCs),Palompon Institute of Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,30000,0,0,30000,40
+327,State Universities and Colleges (SUCs),Palompon Institute of Technology,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,42764,0,0,42764,40
+328,State Universities and Colleges (SUCs),Samar State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,60000,0,0,60000,41
+329,State Universities and Colleges (SUCs),Samar State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,59000,0,0,59000,141000,0,0,141000,41
+330,State Universities and Colleges (SUCs),Samar State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,99000,0,0,99000,0,0,0,0,41
+331,State Universities and Colleges (SUCs),Samar State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,40000,0,0,40000,41
+332,State Universities and Colleges (SUCs),Southern Leyte State University,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,0,0,0,0,10000,0,0,10000,41
+333,State Universities and Colleges (SUCs),Southern Leyte State University,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,30000,0,0,30000,41
+334,State Universities and Colleges (SUCs),Southern Leyte State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,12500,0,0,12500,80000,0,0,80000,41
+335,State Universities and Colleges (SUCs),Southern Leyte State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,89,0,0,89,0,0,0,0,0,0,0,0,41
+336,State Universities and Colleges (SUCs),University of Eastern Philippines,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,5045,0,0,5045,219302,0,0,219302,41
+337,State Universities and Colleges (SUCs),University of Eastern Philippines,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,49647,0,0,49647,0,0,0,0,42
+338,State Universities and Colleges (SUCs),Visayas State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,70000,0,0,70000,42
+339,State Universities and Colleges (SUCs),Visayas State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,14000,0,0,14000,250000,0,0,250000,42
+340,State Universities and Colleges (SUCs),J. H. Cerilles State College,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,8000,0,0,8000,91000,0,0,91000,42
+341,State Universities and Colleges (SUCs),J. H. Cerilles State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,83000,0,0,83000,42
+342,State Universities and Colleges (SUCs),J. H. Cerilles State College,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,24800,0,0,24800,0,0,0,0,0,0,0,0,42
+343,State Universities and Colleges (SUCs),Jose Rizal Memorial State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,5000,0,0,5000,0,0,0,0,42
+344,State Universities and Colleges (SUCs),Jose Rizal Memorial State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,30000,0,0,30000,18000,0,0,18000,42
+345,State Universities and Colleges (SUCs),Jose Rizal Memorial State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,20000,0,0,20000,43
+346,State Universities and Colleges (SUCs),Western Mindanao State University,New General Appropriations,Infrastructure Outlay,Power Supply Systems,14962,0,0,14962,0,0,0,0,0,0,0,0,43
+347,State Universities and Colleges (SUCs),Western Mindanao State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,100000,0,0,100000,255000,0,0,255000,43
+348,State Universities and Colleges (SUCs),Western Mindanao State University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,2009,0,0,2009,0,0,0,0,0,0,0,0,43
+349,State Universities and Colleges (SUCs),Zamboanga Peninsula Polytechnic State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,210000,0,0,210000,43
+350,State Universities and Colleges (SUCs),Zamboanga Peninsula Polytechnic State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,75000,0,0,75000,18000,0,0,18000,43
+351,State Universities and Colleges (SUCs),Zamboanga Peninsula Polytechnic State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,16000,0,0,16000,0,0,0,0,43
+352,State Universities and Colleges (SUCs),Zamboanga Peninsula Polytechnic State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,648,0,0,648,0,0,0,0,0,0,0,0,43
+353,State Universities and Colleges (SUCs),Zamboanga Peninsula Polytechnic State University,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,806,0,0,806,0,0,0,0,0,0,0,0,44
+354,State Universities and Colleges (SUCs),Zamboanga State College of Marine Sciences and Technology,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,7200,0,0,7200,8000,0,0,8000,44
+355,State Universities and Colleges (SUCs),Zamboanga State College of Marine Sciences and Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,9000,0,0,9000,18000,0,0,18000,44
+356,State Universities and Colleges (SUCs),Bukidnon State University,New General Appropriations,Building and Other Structures Outlay,Buildings,3225,0,0,3225,0,0,0,0,0,0,0,0,44
+357,State Universities and Colleges (SUCs),Bukidnon State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,28000,0,0,28000,90000,0,0,90000,44
+358,State Universities and Colleges (SUCs),Bukidnon State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,25061,0,0,25061,0,0,0,0,0,0,0,0,44
+359,State Universities and Colleges (SUCs),Bukidnon State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,19154,0,0,19154,0,0,0,0,0,0,0,0,44
+360,State Universities and Colleges (SUCs),Camiguin Polytechnic State College,New General Appropriations,Infrastructure Outlay,Sewer Systems,0,0,0,0,0,0,0,0,45600,0,0,45600,44
+361,State Universities and Colleges (SUCs),Camiguin Polytechnic State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,20000,0,0,20000,100000,0,0,100000,45
+362,State Universities and Colleges (SUCs),Central Mindanao University,New General Appropriations,Building and Other Structures Outlay,Buildings,6033,0,0,6033,0,0,0,0,20000,0,0,20000,45
+363,State Universities and Colleges (SUCs),Central Mindanao University,New General Appropriations,Building and Other Structures Outlay,School Buildings,2533,0,0,2533,52200,0,0,52200,45000,0,0,45000,45
+364,State Universities and Colleges (SUCs),Central Mindanao University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,10000,0,0,10000,45
+365,State Universities and Colleges (SUCs),Central Mindanao University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,10000,0,0,10000,45
+366,State Universities and Colleges (SUCs),Central Mindanao University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,21206,0,0,21206,0,0,0,0,0,0,0,0,45
+367,State Universities and Colleges (SUCs),Central Mindanao University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,619,0,0,619,0,0,0,0,0,0,0,0,45
+368,State Universities and Colleges (SUCs),University of Science and Technology of Southern Philippines - Cagayan de Oro Campus,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,12500,0,0,12500,0,0,0,0,45
+369,State Universities and Colleges (SUCs),MSU-Iligan Institute of Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,45000,0,0,45000,115000,0,0,115000,46
+370,State Universities and Colleges (SUCs),MSU-Iligan Institute of Technology,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,49940,0,0,49940,0,0,0,0,0,0,0,0,46
+371,State Universities and Colleges (SUCs),University of Science and Technology of Southern Philippines - Claveria Campus,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,20000,0,0,20000,0,0,0,0,46
+372,State Universities and Colleges (SUCs),University of Science and Technology of Southern Philippines - Claveria Campus,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,60000,0,0,60000,0,0,0,0,46
+373,State Universities and Colleges (SUCs),Northwestern Mindanao State College of Science and Technology,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,65000,0,0,65000,71000,0,0,71000,46
+374,State Universities and Colleges (SUCs),Northwestern Mindanao State College of Science and Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,4894,0,0,4894,100000,0,0,100000,73000,0,0,73000,46
+375,State Universities and Colleges (SUCs),Northwestern Mindanao State College of Science and Technology,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,15000,0,0,15000,46
+376,State Universities and Colleges (SUCs),Cotabato State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,12500,0,0,12500,0,0,0,0,46
+377,State Universities and Colleges (SUCs),Cotabato State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,30000,0,0,30000,47
+378,State Universities and Colleges (SUCs),Cotabato Foundation College of Science and Technology,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,12500,0,0,12500,0,0,0,0,47
+379,State Universities and Colleges (SUCs),Cotabato Foundation College of Science and Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,28800,0,0,28800,47
+380,State Universities and Colleges (SUCs),Cotabato Foundation College of Science and Technology,Continuing Appropriations,Building and Other Structures Outlay,Buildings,103,0,0,103,0,0,0,0,0,0,0,0,47
+381,State Universities and Colleges (SUCs),Cotabato Foundation College of Science and Technology,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,101,0,0,101,0,0,0,0,0,0,0,0,47
+382,State Universities and Colleges (SUCs),Sultan Kudarat State University,New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,0,0,0,0,8000,0,0,8000,47
+383,State Universities and Colleges (SUCs),Sultan Kudarat State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,18000,0,0,18000,47
+384,State Universities and Colleges (SUCs),Sultan Kudarat State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,12500,0,0,12500,0,0,0,0,47
+385,State Universities and Colleges (SUCs),Sultan Kudarat State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,159,0,0,159,0,0,0,0,0,0,0,0,48
+386,State Universities and Colleges (SUCs),University of Southern Mindanao,New General Appropriations,Infrastructure Outlay,Road Networks,0,0,0,0,10000,0,0,10000,0,0,0,0,48
+387,State Universities and Colleges (SUCs),University of Southern Mindanao,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,20000,0,0,20000,0,0,0,0,48
+388,State Universities and Colleges (SUCs),University of Southern Mindanao,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,30000,0,0,30000,0,0,0,0,48
+389,State Universities and Colleges (SUCs),University of Southern Mindanao,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,40500,0,0,40500,48
+390,State Universities and Colleges (SUCs),University of Southern Mindanao,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,3431,0,0,3431,0,0,0,0,0,0,0,0,48
+391,State Universities and Colleges (SUCs),Agusan del Sur State College of Agriculture and Technology,New General Appropriations,Building and Other Structures Outlay,Buildings,4970,0,0,4970,0,0,0,0,0,0,0,0,48
+392,State Universities and Colleges (SUCs),Agusan del Sur State College of Agriculture and Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,177508,0,0,177508,75980,0,0,75980,48
+393,State Universities and Colleges (SUCs),Caraga State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,75000,0,0,75000,53000,0,0,53000,49
+394,State Universities and Colleges (SUCs),Caraga State University,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,340000,0,0,340000,0,0,0,0,49
+395,State Universities and Colleges (SUCs),Caraga State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,25000,0,0,25000,49
+396,State Universities and Colleges (SUCs),North Eastern Mindanao State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,40000,0,0,40000,0,0,0,0,49
+397,State Universities and Colleges (SUCs),North Eastern Mindanao State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,45000,0,0,45000,49
+398,State Universities and Colleges (SUCs),Surigao del Norte State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,20000,0,0,20000,49
+399,State Universities and Colleges (SUCs),Surigao del Norte State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,24836,0,0,24836,30000,0,0,30000,49
+400,State Universities and Colleges (SUCs),Adiong Memorial State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,2495,0,0,2495,12500,0,0,12500,26000,0,0,26000,49
+401,State Universities and Colleges (SUCs),Adiong Memorial State College,New General Appropriations,Building and Other Structures Outlay,Other Structures,3995,0,0,3995,0,0,0,0,0,0,0,0,49
+402,State Universities and Colleges (SUCs),Basilan State College,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,60000,0,0,60000,0,0,0,0,50
+403,State Universities and Colleges (SUCs),Basilan State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,12000,0,0,12000,50
+404,State Universities and Colleges (SUCs),Basilan State College,Continuing Appropriations,Building and Other Structures Outlay,Buildings,19952,0,0,19952,0,0,0,0,0,0,0,0,50
+405,State Universities and Colleges (SUCs),Mindanao State University,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,7841823,0,0,7841823,0,0,0,0,0,0,0,0,50
+406,State Universities and Colleges (SUCs),Mindanao State University,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,28626,0,0,28626,0,0,0,0,50
+407,State Universities and Colleges (SUCs),Mindanao State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,4548,0,0,4548,240978,0,0,240978,464679,0,0,464679,50
+408,State Universities and Colleges (SUCs),Mindanao State University,New General Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,3632,0,0,3632,0,0,0,0,60541,0,0,60541,50
+409,State Universities and Colleges (SUCs),Mindanao State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,9401,0,0,9401,3500,0,0,3500,339472,0,0,339472,50
+410,State Universities and Colleges (SUCs),Mindanao State University,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,753,0,0,753,0,0,0,0,0,0,0,0,50
+411,State Universities and Colleges (SUCs),Mindanao State University,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,1608,0,0,1608,0,0,0,0,0,0,0,0,50
+412,State Universities and Colleges (SUCs),MSU-Tawi-Tawi College of Technology and Oceanography,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,2100000,0,0,2100000,0,0,0,0,0,0,0,0,51
+413,State Universities and Colleges (SUCs),MSU-Tawi-Tawi College of Technology and Oceanography,New General Appropriations,Building and Other Structures Outlay,School Buildings,25000,0,0,25000,37500,0,0,37500,35373,0,0,35373,51
+414,State Universities and Colleges (SUCs),MSU-Tawi-Tawi College of Technology and Oceanography,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,65000,0,0,65000,51
+415,State Universities and Colleges (SUCs),Sulu State College,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,120500,0,0,120500,51
+416,State Universities and Colleges (SUCs),Sulu State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,0,0,0,0,51
+417,State Universities and Colleges (SUCs),Tawi-Tawi Regional Agricultural College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,32000,0,0,32000,51
+418,State Universities and Colleges (SUCs),Northern Bukidnon State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,12500,0,0,12500,85120,0,0,85120,51
+419,State Universities and Colleges (SUCs),Northern Bukidnon State College,Continuing Appropriations,Building and Other Structures Outlay,Buildings,36675,0,0,36675,0,0,0,0,0,0,0,0,52
+420,State Universities and Colleges (SUCs),Northern Bukidnon State College,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,24605,0,0,24605,0,0,0,0,0,0,0,0,52
+421,State Universities and Colleges (SUCs),University of Southeastern Philippines,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,50000,0,0,50000,0,0,0,0,52
+422,State Universities and Colleges (SUCs),University of Southeastern Philippines,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,388000,0,0,388000,30000,0,0,30000,52
+423,State Universities and Colleges (SUCs),University of Southeastern Philippines,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,100000,0,0,100000,52
+424,State Universities and Colleges (SUCs),University of Southeastern Philippines,Continuing Appropriations,Building and Other Structures Outlay,Buildings,3080,0,0,3080,0,0,0,0,0,0,0,0,52
+425,State Universities and Colleges (SUCs),University of Southeastern Philippines,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,90000,0,0,90000,0,0,0,0,0,0,0,0,52
+426,State Universities and Colleges (SUCs),Davao de Oro State College,New General Appropriations,Land Improvements Outlay,Other Land Improvements,15373,0,0,15373,0,0,0,0,0,0,0,0,52
+427,State Universities and Colleges (SUCs),Davao de Oro State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,67321,0,0,67321,44027,0,0,44027,52
+428,State Universities and Colleges (SUCs),Davao del Sur State College,New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,0,0,0,0,80,0,0,80,53
+429,State Universities and Colleges (SUCs),Davao del Sur State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,30000,0,0,30000,53
+430,State Universities and Colleges (SUCs),Davao Oriental State University,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,8000,0,0,8000,0,0,0,0,53
+431,State Universities and Colleges (SUCs),Davao Oriental State University,New General Appropriations,Building and Other Structures Outlay,Buildings,4978,0,0,4978,84437,0,0,84437,0,0,0,0,53
+432,State Universities and Colleges (SUCs),Davao Oriental State University,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,41250,0,0,41250,53
+433,State Universities and Colleges (SUCs),Davao Oriental State University,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,39900,0,0,39900,0,0,0,0,53
+434,State Universities and Colleges (SUCs),Davao Oriental State University,Continuing Appropriations,Building and Other Structures Outlay,Buildings,1665,0,0,1665,0,0,0,0,0,0,0,0,53
+435,State Universities and Colleges (SUCs),Southern Philippines Agri-Business and Marine and Aquatic School of Technology,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,30000,0,0,30000,0,0,0,0,53
+436,State Universities and Colleges (SUCs),Southern Philippines Agri-Business and Marine and Aquatic School of Technology,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,60000,0,0,60000,30000,0,0,30000,54
+437,State Universities and Colleges (SUCs),Davao del Norte State College,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,20000,0,0,20000,54
+438,State Universities and Colleges (SUCs),Davao del Norte State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,25000,0,0,25000,85394,0,0,85394,54
+439,State Universities and Colleges (SUCs),South Cotabato State College,New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,0,0,0,0,8000,0,0,8000,54
+440,State Universities and Colleges (SUCs),South Cotabato State College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,40000,0,0,40000,0,0,0,0,54
+441,State Universities and Colleges (SUCs),South Cotabato State College,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,60000,0,0,60000,0,0,0,0,54
+442,State Universities and Colleges (SUCs),South Cotabato State College,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,30000,0,0,30000,54
+443,State Universities and Colleges (SUCs),University of Science and Technology of Southern Philippines,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,50000,0,0,50000,54
+444,State Universities and Colleges (SUCs),University of Science and Technology of Southern Philippines,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,187000,0,0,187000,55
+445,Department of Energy (DOE),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,0,0,0,0,2000,0,0,2000,55
+446,Department of Energy (DOE),Office of the Secretary,Automatic Appropriations,Infrastructure Outlay,Power Supply Systems,300000,0,0,300000,300000,0,0,300000,300000,0,0,300000,55
+447,Department of Energy (DOE),Office of the Secretary,Automatic Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,281428,0,0,281428,55
+448,Department of Energy (DOE),Office of the Secretary,Automatic Appropriations,Building and Other Structures Outlay,Other Structures,12334,0,0,12334,0,0,0,0,0,0,0,0,55
+449,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Land Improvements Outlay,Reforestation Projects,1034477,0,0,1034477,1068730,0,0,1068730,424109,0,0,424109,55
+450,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Land Improvements Outlay,Other Land Improvements,29799,0,0,29799,59600,0,0,59600,43514,0,0,43514,55
+451,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Sewer Systems,400000,0,0,400000,481512,0,0,481512,423592,0,0,423592,56
+452,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Water Supply Systems,170959,0,0,170959,142873,0,0,142873,283294,0,0,283294,56
+453,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Power Supply Systems,42032,0,0,42032,0,0,0,0,200,0,0,200,56
+454,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Parks Plazas and Monuments,0,0,0,0,0,0,0,0,25040,0,0,25040,56
+455,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,54194,0,0,54194,132948,0,0,132948,5000,0,0,5000,56
+456,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,225005,0,0,225005,297440,0,0,297440,317556,0,0,317556,56
+457,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,15459,0,0,15459,0,0,0,0,0,0,0,0,56
+458,Department of Environment and Natural Resources (DENR),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,240586,0,0,240586,119207,0,0,119207,260231,0,0,260231,56
+459,Department of Environment and Natural Resources (DENR),Office of the Secretary,Continuing Appropriations,Land Improvements Outlay,Reforestation Projects,65806,0,0,65806,0,0,0,0,0,0,0,0,56
+460,Department of Environment and Natural Resources (DENR),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Water Supply Systems,6908,0,0,6908,0,0,0,0,0,0,0,0,56
+461,Department of Environment and Natural Resources (DENR),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,23639,0,0,23639,0,0,0,0,0,0,0,0,56
+462,Department of Environment and Natural Resources (DENR),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,25562,0,0,25562,0,0,0,0,0,0,0,0,56
+463,Department of Environment and Natural Resources (DENR),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,17657,0,0,17657,0,0,0,0,0,0,0,0,56
+464,Department of Environment and Natural Resources (DENR),Office of the Secretary,Automatic Appropriations,Land Improvements Outlay,Other Land Improvements,100,0,0,100,0,0,0,0,0,0,0,0,57
+465,Department of Environment and Natural Resources (DENR),Office of the Secretary,Automatic Appropriations,Building and Other Structures Outlay,Buildings,8009,0,0,8009,15000,0,0,15000,15000,0,0,15000,57
+466,Department of Environment and Natural Resources (DENR),Office of the Secretary,Automatic Appropriations,Building and Other Structures Outlay,Other Structures,3665,0,0,3665,6000,0,0,6000,6000,0,0,6000,57
+467,Department of Environment and Natural Resources (DENR),Environmental Management Bureau,New General Appropriations,Land Improvements Outlay,Other Land Improvements,1284,0,0,1284,0,0,0,0,0,0,0,0,57
+468,Department of Environment and Natural Resources (DENR),Environmental Management Bureau,New General Appropriations,Infrastructure Outlay,Communications Networks,7300,0,0,7300,0,0,0,0,0,0,0,0,57
+469,Department of Environment and Natural Resources (DENR),Environmental Management Bureau,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,76,0,0,76,0,0,0,0,46500,0,0,46500,57
+470,Department of Environment and Natural Resources (DENR),Environmental Management Bureau,New General Appropriations,Building and Other Structures Outlay,Buildings,96020,0,0,96020,119795,0,0,119795,204515,0,0,204515,57
+471,Department of Environment and Natural Resources (DENR),Environmental Management Bureau,New General Appropriations,Building and Other Structures Outlay,Other Structures,1022,0,0,1022,0,0,0,0,0,0,0,0,57
+472,Department of Environment and Natural Resources (DENR),Mines and Geosciences Bureau,New General Appropriations,Building and Other Structures Outlay,Buildings,60000,0,0,60000,75380,0,0,75380,60000,0,0,60000,57
+473,Department of Environment and Natural Resources (DENR),Mines and Geosciences Bureau,New General Appropriations,Building and Other Structures Outlay,Other Structures,166,0,0,166,0,0,0,0,0,0,0,0,58
+474,Department of Environment and Natural Resources (DENR),Mines and Geosciences Bureau,Automatic Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,1150,0,0,1150,58
+475,Department of Environment and Natural Resources (DENR),National Water Resources Board,New General Appropriations,Building and Other Structures Outlay,Ground Water Monitoring Stations,15790,0,0,15790,23000,0,0,23000,32000,0,0,32000,58
+476,Department of Environment and Natural Resources (DENR),National Water Resources Board,Continuing Appropriations,Building and Other Structures Outlay,Ground Water Monitoring Stations,15605,0,0,15605,0,0,0,0,0,0,0,0,58
+477,Department of Environment and Natural Resources (DENR),Palawan Council for Sustainable Development Staff,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,5000,0,0,5000,58
+478,Department of Finance (DOF),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,800,0,0,800,0,0,0,0,0,0,0,0,59
+479,Department of Finance (DOF),Bureau of Customs,New General Appropriations,Subscription Expenses,ICT Software Subscription,0,0,0,0,0,0,0,0,709051,0,0,709051,59
+480,Department of Finance (DOF),Bureau of Customs,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,48070,0,0,48070,0,0,0,0,59
+481,Department of Finance (DOF),Bureau of Customs,New General Appropriations,Machinery and Equipment Outlay,Information and Communication Technology Equipment,0,0,0,0,0,0,0,0,194915,0,0,194915,59
+482,Department of Finance (DOF),Bureau of Internal Revenue,New General Appropriations,Subscription Expenses,ICT Software Subscription,0,0,0,0,0,0,0,0,602221,0,0,602221,59
+483,Department of Finance (DOF),Bureau of Internal Revenue,New General Appropriations,Building and Other Structures Outlay,Buildings,585164,0,0,585164,1342756,0,0,1342756,352658,0,0,352658,59
+484,Department of Finance (DOF),Bureau of Internal Revenue,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,12041,0,0,12041,59
+485,Department of Finance (DOF),Bureau of Internal Revenue,New General Appropriations,Machinery and Equipment Outlay,Information and Communication Technology Equipment,0,0,0,0,0,0,0,0,44287,0,0,44287,59
+486,Department of Finance (DOF),Bureau of Internal Revenue,New General Appropriations,Computer Software,Computer Software,0,0,0,0,0,0,0,0,566600,0,0,566600,60
+487,Department of Finance (DOF),Bureau of Internal Revenue,Continuing Appropriations,Building and Other Structures Outlay,Buildings,74972,0,0,74972,0,0,0,0,0,0,0,0,60
+488,Department of Finance (DOF),Bureau of Internal Revenue,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,3970,0,0,3970,0,0,0,0,0,0,0,0,60
+489,Department of Finance (DOF),Bureau of Local Government Finance,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,17335,0,0,17335,4500,0,0,4500,60
+490,Department of Finance (DOF),Bureau of the Treasury,New General Appropriations,Building and Other Structures Outlay,Buildings,413,0,0,413,0,0,0,0,47852,0,0,47852,60
+491,Department of Finance (DOF),Bureau of the Treasury,New General Appropriations,Building and Other Structures Outlay,Other Structures,2920,0,0,2920,10372,0,0,10372,0,0,0,0,60
+492,Department of Finance (DOF),Insurance Commission,Automatic Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,75061,0,0,75061,162189,0,0,162189,60
+493,Department of Finance (DOF),Insurance Commission,Automatic Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,5503,0,0,5503,0,0,0,0,61
+494,Department of Foreign Affairs (DFA),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,288220,0,0,288220,1813889,0,0,1813889,2115126,0,0,2115126,61
+495,Department of Foreign Affairs (DFA),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,15200,0,0,15200,61
+496,Department of Foreign Affairs (DFA),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,139503,0,0,139503,0,0,0,0,0,0,0,0,61
+497,Department of Foreign Affairs (DFA),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,1441,0,0,1441,0,0,0,0,0,0,0,0,61
+498,Department of Foreign Affairs (DFA),Foreign Service Institute,New General Appropriations,Semi-Expendable Machinery and Equipment Expenses,Information and Communications Technology Equipment,0,0,0,0,0,0,0,0,1545,0,0,1545,61
+499,Department of Foreign Affairs (DFA),Foreign Service Institute,New General Appropriations,Internet Subscription Expenses,Internet Subscription Expenses,0,0,0,0,0,0,0,0,1420,0,0,1420,61
+500,Department of Foreign Affairs (DFA),Foreign Service Institute,New General Appropriations,Subscription Expenses,ICT Software Subscription,0,0,0,0,0,0,0,0,4170,0,0,4170,62
+501,Department of Health (DOH),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Power Supply Systems,28791,0,0,28791,0,0,0,0,0,0,0,0,62
+502,Department of Health (DOH),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,9066,0,0,9066,0,0,0,0,554200,0,0,554200,62
+503,Department of Health (DOH),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,8185316,0,0,8185316,19227325,0,0,19227325,22539576,0,0,22539576,62
+504,Department of Health (DOH),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,30406,0,0,30406,490001,0,0,490001,0,0,0,0,62
+505,Department of Health (DOH),Office of the Secretary,Continuing Appropriations,Land Improvements Outlay,Other Land Improvements,5595,0,0,5595,0,0,0,0,0,0,0,0,62
+506,Department of Health (DOH),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,1517,0,0,1517,0,0,0,0,0,0,0,0,62
+507,Department of Health (DOH),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,142514,0,0,142514,0,0,0,0,0,0,0,0,62
+508,Department of Health (DOH),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,3572201,0,0,3572201,0,0,0,0,0,0,0,0,62
+509,Department of Health (DOH),Office of the Secretary,Automatic Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,12626,0,0,12626,0,0,0,0,0,0,0,0,63
+510,Department of Health (DOH),Office of the Secretary,Unprogrammed Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,968543,0,0,968543,0,0,0,0,0,0,0,0,63
+511,Department of Health (DOH),Philippine National AIDS Council,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,5292,0,0,5292,0,0,0,0,63
+512,Department of Human Settlements and Urban Development (DHSUD),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,1421,0,0,1421,0,0,0,0,0,0,0,0,63
+513,Department of Human Settlements and Urban Development (DHSUD),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,101646,0,0,101646,0,0,0,0,0,0,0,0,63
+514,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Semi-Expendable Machinery and Equipment Expenses,Information and Communications Technology Equipment,78052,0,0,78052,0,0,0,0,103457,0,0,103457,64
+515,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Internet Subscription Expenses,Internet Subscription Expenses,51248,0,0,51248,110750,0,0,110750,10754,0,0,10754,64
+516,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Cable Satellite Telegraph and Radio Expenses,Cable Satellite Telegraph and Radio Expenses,0,0,0,0,0,0,0,0,1662,0,0,1662,64
+517,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Repairs and Maintenance - Infrastructure Assets,Communications Networks,36896,0,0,36896,438000,0,0,438000,72001,0,0,72001,64
+518,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Repairs and Maintenance - Leased Assets,ICT Machinery and Equipment,0,0,0,0,22272,0,0,22272,0,0,0,0,64
+519,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Rent/Lease Expenses,Rents - Building and Structures,270217,0,0,270217,672895,0,0,672895,552951,0,0,552951,64
+520,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Rent/Lease Expenses,Rents - Land,0,0,0,0,0,0,0,0,6000,0,0,6000,64
+521,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Subscription Expenses,ICT Software Subscription,1018076,0,0,1018076,1852654,0,0,1852654,804427,0,0,804427,64
+522,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Subscription Expenses,Other Subscription Expenses,308,0,0,308,1962,0,0,1962,1687,0,0,1687,64
+523,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Communications Networks,26967,0,0,26967,0,0,0,0,2165772,0,0,2165772,64
+524,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,33059,0,0,33059,2660,0,0,2660,192660,0,0,192660,65
+525,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,995,0,0,995,8765,0,0,8765,35000,0,0,35000,65
+526,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Machinery and Equipment Outlay,Information and Communication Technology Equipment,364644,0,0,364644,210313,0,0,210313,1244447,0,0,1244447,65
+527,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Machinery and Equipment Outlay,Communications Equipment,0,0,0,0,0,0,0,0,112000,0,0,112000,65
+528,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Machinery and Equipment Outlay,ICT Software,0,0,0,0,0,0,0,0,69800,0,0,69800,65
+529,Department of Information and Communications Technology (DICT),Office of the Secretary,New General Appropriations,Computer Software,Computer Software,0,0,0,0,15672,0,0,15672,0,0,0,0,65
+530,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Semi-Expendable Machinery and Equipment Expenses,Information and Communications Technology Equipment,152818,0,0,152818,0,0,0,0,0,0,0,0,65
+531,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Internet Subscription Expenses,Internet Subscription Expenses,317566,0,0,317566,0,0,0,0,0,0,0,0,65
+532,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Repairs and Maintenance - Infrastructure Assets,Communications Networks,2736,0,0,2736,0,0,0,0,0,0,0,0,65
+533,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Rent/Lease Expenses,Rents - Building and Structures,240794,0,0,240794,0,0,0,0,0,0,0,0,65
+534,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Subscription Expenses,ICT Software Subscription,247226,0,0,247226,0,0,0,0,0,0,0,0,66
+535,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Subscription Expenses,Other Subscription Expenses,20073,0,0,20073,0,0,0,0,0,0,0,0,66
+536,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Communications Networks,59824,0,0,59824,0,0,0,0,0,0,0,0,66
+537,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,54534,0,0,54534,0,0,0,0,0,0,0,0,66
+538,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,107428,0,0,107428,0,0,0,0,0,0,0,0,66
+539,Department of Information and Communications Technology (DICT),Office of the Secretary,Continuing Appropriations,Machinery and Equipment Outlay,Information and Communication Technology Equipment,909712,0,0,909712,0,0,0,0,0,0,0,0,66
+540,Department of Information and Communications Technology (DICT),Office of the Secretary,Automatic Appropriations,Semi-Expendable Machinery and Equipment Expenses,Information and Communications Technology Equipment,82866,0,0,82866,0,0,0,0,110,0,0,110,66
+541,Department of Information and Communications Technology (DICT),Office of the Secretary,Automatic Appropriations,Internet Subscription Expenses,Internet Subscription Expenses,5051495,0,0,5051495,2329345,0,0,2329345,4805000,0,0,4805000,66
+542,Department of Information and Communications Technology (DICT),Office of the Secretary,Automatic Appropriations,Repairs and Maintenance - Infrastructure Assets,Communications Networks,175,0,0,175,0,0,0,0,0,0,0,0,66
+543,Department of Information and Communications Technology (DICT),Office of the Secretary,Automatic Appropriations,Subscription Expenses,ICT Software Subscription,0,0,0,0,45000,0,0,45000,45000,0,0,45000,66
+544,Department of Information and Communications Technology (DICT),Office of the Secretary,Automatic Appropriations,Subscription Expenses,Other Subscription Expenses,328,0,0,328,50655,0,0,50655,0,0,0,0,67
+545,Department of Information and Communications Technology (DICT),Cybercrime Investigation and Coordination Center,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,750000,0,0,750000,0,0,0,0,67
+546,Department of Information and Communications Technology (DICT),National Telecommunications Commission,New General Appropriations,Building and Other Structures Outlay,Buildings,129700,0,0,129700,0,0,0,0,0,0,0,0,67
+547,Department of Information and Communications Technology (DICT),National Telecommunications Commission,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,8976,0,0,8976,0,0,0,0,0,0,0,0,67
+548,Department of the Interior and Local Government (DILG),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,109309,0,0,109309,128015,0,0,128015,750000,0,0,750000,67
+549,Department of the Interior and Local Government (DILG),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,1013,0,0,1013,0,0,0,0,0,0,0,0,68
+550,Department of the Interior and Local Government (DILG),Bureau of Fire Protection,New General Appropriations,Building and Other Structures Outlay,Buildings,19946,0,0,19946,406618,0,0,406618,794118,0,0,794118,68
+551,Department of the Interior and Local Government (DILG),Bureau of Fire Protection,Continuing Appropriations,Building and Other Structures Outlay,Buildings,10469,0,0,10469,0,0,0,0,0,0,0,0,68
+552,Department of the Interior and Local Government (DILG),Bureau of Fire Protection,Automatic Appropriations,Building and Other Structures Outlay,Buildings,916208,0,0,916208,0,0,0,0,512608,0,0,512608,68
+553,Department of the Interior and Local Government (DILG),Bureau of Jail Management and Penology,New General Appropriations,Infrastructure Outlay,Communications Networks,2704,0,0,2704,52744,0,0,52744,38910,0,0,38910,68
+554,Department of the Interior and Local Government (DILG),Bureau of Jail Management and Penology,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,3818032,0,0,3818032,0,0,0,0,68
+555,Department of the Interior and Local Government (DILG),Bureau of Jail Management and Penology,New General Appropriations,Building and Other Structures Outlay,Other Structures,64406,0,0,64406,39458,0,0,39458,194458,0,0,194458,68
+556,Department of the Interior and Local Government (DILG),Bureau of Jail Management and Penology,New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,36010,0,0,36010,69
+557,Department of the Interior and Local Government (DILG),Bureau of Jail Management and Penology,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,4275,0,0,4275,0,0,0,0,0,0,0,0,69
+558,Department of the Interior and Local Government (DILG),National Commission on Muslim Filipinos (Office on Muslim Affairs),New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,1000,0,0,1000,0,0,0,0,69
+559,Department of the Interior and Local Government (DILG),National Commission on Muslim Filipinos (Office on Muslim Affairs),New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,73135,0,0,73135,0,0,0,0,69
+560,Department of the Interior and Local Government (DILG),National Police Commission,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,20000,0,0,20000,69
+561,Department of the Interior and Local Government (DILG),Philippine National Police,New General Appropriations,Building and Other Structures Outlay,Buildings,1741031,0,0,1741031,1200526,0,0,1200526,844682,0,0,844682,69
+562,Department of the Interior and Local Government (DILG),Philippine National Police,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,0,0,0,0,0,0,0,0,170000,0,0,170000,69
+563,Department of the Interior and Local Government (DILG),Philippine National Police,New General Appropriations,Building and Other Structures Outlay,Other Structures,418933,0,0,418933,0,0,0,0,0,0,0,0,70
+564,Department of the Interior and Local Government (DILG),Philippine National Police,New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,1026647,0,0,1026647,70
+565,Department of the Interior and Local Government (DILG),Philippine National Police,New General Appropriations,Transportation Equipment Outlay,Watercrafts,0,0,0,0,0,0,0,0,34320,0,0,34320,70
+566,Department of the Interior and Local Government (DILG),Philippine National Police,Continuing Appropriations,Building and Other Structures Outlay,Buildings,36724,0,0,36724,0,0,0,0,0,0,0,0,70
+567,Department of the Interior and Local Government (DILG),Philippine Public Safety College,New General Appropriations,Building and Other Structures Outlay,Buildings,45961,0,0,45961,26400,0,0,26400,0,0,0,0,70
+568,Department of the Interior and Local Government (DILG),Philippine Public Safety College,New General Appropriations,Building and Other Structures Outlay,School Buildings,0,0,0,0,0,0,0,0,124031,0,0,124031,70
+569,Department of the Interior and Local Government (DILG),Philippine Public Safety College,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,37457,0,0,37457,0,0,0,0,0,0,0,0,70
+570,Department of Justice (DOJ),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,245664,0,0,245664,300000,0,0,300000,71
+571,Department of Justice (DOJ),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,9800,0,0,9800,0,0,0,0,71
+572,Department of Justice (DOJ),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,148926,0,0,148926,0,0,0,0,0,0,0,0,71
+573,Department of Justice (DOJ),Bureau of Corrections,New General Appropriations,Building and Other Structures Outlay,Buildings,752066,0,0,752066,853179,0,0,853179,676080,0,0,676080,71
+574,Department of Justice (DOJ),Bureau of Corrections,New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,20000,0,0,20000,71
+575,Department of Justice (DOJ),Bureau of Immigration,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,120000,0,0,120000,0,0,0,0,71
+576,Department of Justice (DOJ),Land Registration Authority,Continuing Appropriations,Building and Other Structures Outlay,Buildings,1582,0,0,1582,0,0,0,0,0,0,0,0,71
+577,Department of Justice (DOJ),Land Registration Authority,Automatic Appropriations,Building and Other Structures Outlay,Buildings,129,0,0,129,9000,0,0,9000,135039,0,0,135039,72
+578,Department of Justice (DOJ),National Bureau of Investigation,New General Appropriations,Building and Other Structures Outlay,Buildings,57000,0,0,57000,905590,0,0,905590,802400,0,0,802400,72
+579,Department of Justice (DOJ),National Bureau of Investigation,New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,5085,0,0,5085,72
+580,Department of Justice (DOJ),National Bureau of Investigation,Continuing Appropriations,Building and Other Structures Outlay,Buildings,450000,0,0,450000,0,0,0,0,0,0,0,0,72
+581,Department of Justice (DOJ),Parole and Probation Administration,New General Appropriations,Building and Other Structures Outlay,Buildings,4928,0,0,4928,50000,0,0,50000,0,0,0,0,72
+582,Department of Labor and Employment (DOLE),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,121533,0,0,121533,100000,0,0,100000,0,0,0,0,72
+583,Department of Labor and Employment (DOLE),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,23337,0,0,23337,0,0,0,0,0,0,0,0,73
+584,Department of Labor and Employment (DOLE),National Conciliation and Mediation Board,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,540,0,0,540,0,0,0,0,0,0,0,0,73
+585,Department of Labor and Employment (DOLE),National Labor Relations Commission,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,25820,0,0,25820,73
+586,Department of Labor and Employment (DOLE),Professional Regulation Commission,New General Appropriations,Building and Other Structures Outlay,Buildings,23000,0,0,23000,540000,0,0,540000,163700,0,0,163700,73
+587,Department of Labor and Employment (DOLE),Technical Education and Skills Development Authority,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,1350000,0,0,1350000,40010,0,0,40010,73
+588,Department of Labor and Employment (DOLE),Technical Education and Skills Development Authority,Continuing Appropriations,Building and Other Structures Outlay,Buildings,181538,0,0,181538,0,0,0,0,0,0,0,0,74
+589,Department of Migrant Workers (DMW),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,500000,0,0,500000,5000,0,0,5000,242954,0,0,242954,74
+590,Department of Migrant Workers (DMW),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,1559,0,0,1559,0,0,0,0,0,0,0,0,74
+591,Department of Migrant Workers (DMW),Overseas Workers Welfare Administration,New General Appropriations,Building and Other Structures Outlay,Buildings,76100,0,0,76100,0,0,0,0,0,0,0,0,74
+592,Department of Migrant Workers (DMW),Overseas Workers Welfare Administration,New General Appropriations,Building and Other Structures Outlay,Other Structures,900,0,0,900,0,0,0,0,0,0,0,0,74
+593,Department of Migrant Workers (DMW),Overseas Workers Welfare Administration,Continuing Appropriations,Building and Other Structures Outlay,Buildings,20000,0,0,20000,0,0,0,0,0,0,0,0,74
+594,Department of National Defense (DND),Office of the Secretary - Proper,New General Appropriations,Building and Other Structures Outlay,Buildings,196886,0,0,196886,1008433,0,0,1008433,405933,0,0,405933,75
+595,Department of National Defense (DND),Office of the Secretary - Proper,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,292400,0,0,292400,75
+596,Department of National Defense (DND),Government Arsenal,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,0,0,0,0,212000,0,0,212000,75
+597,Department of National Defense (DND),Government Arsenal,New General Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,39936,0,0,39936,0,0,0,0,0,0,0,0,75
+598,Department of National Defense (DND),Government Arsenal,New General Appropriations,Building and Other Structures Outlay,Other Structures,22947,0,0,22947,21000,0,0,21000,0,0,0,0,75
+599,Department of National Defense (DND),Government Arsenal,New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,4500,0,0,4500,75
+600,Department of National Defense (DND),Government Arsenal,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,81909,0,0,81909,0,0,0,0,0,0,0,0,75
+601,Department of National Defense (DND),National Defense College of the Philippines,New General Appropriations,Infrastructure Outlay,Road Networks,0,0,0,0,60000,0,0,60000,0,0,0,0,75
+602,Department of National Defense (DND),National Defense College of the Philippines,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,30000,0,0,30000,0,0,0,0,76
+603,Department of National Defense (DND),National Defense College of the Philippines,New General Appropriations,Building and Other Structures Outlay,Other Structures,28101,0,0,28101,0,0,0,0,0,0,0,0,76
+604,Department of National Defense (DND),Office of Civil Defense,New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,1558,0,0,1558,0,0,0,0,76
+605,Department of National Defense (DND),Office of Civil Defense,New General Appropriations,Building and Other Structures Outlay,Buildings,259600,0,0,259600,382000,0,0,382000,77000,0,0,77000,76
+606,Department of National Defense (DND),Office of Civil Defense,Continuing Appropriations,Building and Other Structures Outlay,Buildings,1246,0,0,1246,0,0,0,0,0,0,0,0,76
+607,Department of National Defense (DND),Philippine Veterans Affairs Office (PVAO) - Proper,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,227400,0,0,227400,255500,0,0,255500,76
+608,Department of National Defense (DND),Veterans Memorial Medical Center,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,91825,0,0,91825,250000,0,0,250000,77
+609,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Land Improvements Outlay,Other Land Improvements,12417,0,0,12417,0,0,0,0,26308,0,0,26308,77
+610,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Infrastructure Outlay,Road Networks,4635,0,0,4635,12000,0,0,12000,26308,0,0,26308,77
+611,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Infrastructure Outlay,Water Supply Systems,23798,0,0,23798,14503,0,0,14503,14729,0,0,14729,77
+612,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Infrastructure Outlay,Power Supply Systems,4000,0,0,4000,19134,0,0,19134,0,0,0,0,77
+613,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,1710,0,0,1710,49491,0,0,49491,77
+614,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,800000,0,0,800000,77
+615,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Building and Other Structures Outlay,Buildings,734605,0,0,734605,382804,0,0,382804,2031856,0,0,2031856,77
+616,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Building and Other Structures Outlay,Other Structures,203604,0,0,203604,1566857,0,0,1566857,1110379,0,0,1110379,77
+617,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,6368976,0,0,6368976,77
+618,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Transportation Equipment Outlay,Aircrafts and Aircrafts Ground Equipment,0,0,0,0,0,0,0,0,1476460,0,0,1476460,77
+619,Department of National Defense (DND),Philippine Army ( Land Forces ),New General Appropriations,Transportation Equipment Outlay,Watercrafts,0,0,0,0,0,0,0,0,22500,0,0,22500,78
+620,Department of National Defense (DND),Philippine Army ( Land Forces ),Continuing Appropriations,Land Improvements Outlay,Other Land Improvements,51735,0,0,51735,0,0,0,0,0,0,0,0,78
+621,Department of National Defense (DND),Philippine Army ( Land Forces ),Continuing Appropriations,Infrastructure Outlay,Water Supply Systems,4507,0,0,4507,0,0,0,0,0,0,0,0,78
+622,Department of National Defense (DND),Philippine Army ( Land Forces ),Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,3146,0,0,3146,0,0,0,0,0,0,0,0,78
+623,Department of National Defense (DND),Philippine Army ( Land Forces ),Continuing Appropriations,Building and Other Structures Outlay,Buildings,261686,0,0,261686,0,0,0,0,0,0,0,0,78
+624,Department of National Defense (DND),Philippine Army ( Land Forces ),Continuing Appropriations,Building and Other Structures Outlay,Other Structures,309646,0,0,309646,0,0,0,0,0,0,0,0,78
+625,Department of National Defense (DND),Philippine Air Force ( Air Forces ),New General Appropriations,Land Improvements Outlay,Other Land Improvements,248302,0,0,248302,0,0,0,0,142800,0,0,142800,78
+626,Department of National Defense (DND),Philippine Air Force ( Air Forces ),New General Appropriations,Infrastructure Outlay,Water Supply Systems,15129,0,0,15129,0,0,0,0,0,0,0,0,78
+627,Department of National Defense (DND),Philippine Air Force ( Air Forces ),New General Appropriations,Infrastructure Outlay,Power Supply Systems,50654,0,0,50654,0,0,0,0,0,0,0,0,78
+628,Department of National Defense (DND),Philippine Air Force ( Air Forces ),New General Appropriations,Building and Other Structures Outlay,Buildings,30000,0,0,30000,209963,0,0,209963,967509,0,0,967509,79
+629,Department of National Defense (DND),Philippine Air Force ( Air Forces ),New General Appropriations,Building and Other Structures Outlay,Other Structures,1357634,0,0,1357634,769606,0,0,769606,561072,0,0,561072,79
+630,Department of National Defense (DND),Philippine Air Force ( Air Forces ),New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,2884238,0,0,2884238,79
+631,Department of National Defense (DND),Philippine Air Force ( Air Forces ),New General Appropriations,Transportation Equipment Outlay,Aircrafts and Aircrafts Ground Equipment,0,0,0,0,0,0,0,0,2641060,0,0,2641060,79
+632,Department of National Defense (DND),Philippine Air Force ( Air Forces ),Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,1009,0,0,1009,0,0,0,0,0,0,0,0,79
+633,Department of National Defense (DND),Philippine Air Force ( Air Forces ),Continuing Appropriations,Building and Other Structures Outlay,Other Structures,6167,0,0,6167,0,0,0,0,0,0,0,0,79
+634,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Land Improvements Outlay,Other Land Improvements,0,0,0,0,75677,0,0,75677,0,0,0,0,79
+635,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Infrastructure Outlay,Road Networks,8450,0,0,8450,149843,0,0,149843,134461,0,0,134461,79
+636,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,0,0,0,0,926,0,0,926,79
+637,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Infrastructure Outlay,Power Supply Systems,70407,0,0,70407,538789,0,0,538789,32519,0,0,32519,80
+638,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,0,0,0,0,19000,0,0,19000,80
+639,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Infrastructure Outlay,Seaport Systems,0,0,0,0,0,0,0,0,135902,0,0,135902,80
+640,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,3922,0,0,3922,0,0,0,0,270200,0,0,270200,80
+641,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Building and Other Structures Outlay,Buildings,61605,0,0,61605,105433,0,0,105433,300146,0,0,300146,80
+642,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Building and Other Structures Outlay,Other Structures,140045,0,0,140045,638415,0,0,638415,187490,0,0,187490,80
+643,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,4663440,0,0,4663440,80
+644,Department of National Defense (DND),Philippine Navy ( Naval Forces ),New General Appropriations,Transportation Equipment Outlay,Watercrafts,3089,0,0,3089,115628,0,0,115628,93000,0,0,93000,80
+645,Department of National Defense (DND),Philippine Navy ( Naval Forces ),Continuing Appropriations,Land Improvements Outlay,Other Land Improvements,31746,0,0,31746,0,0,0,0,0,0,0,0,80
+646,Department of National Defense (DND),Philippine Navy ( Naval Forces ),Continuing Appropriations,Infrastructure Outlay,Road Networks,13415,0,0,13415,0,0,0,0,0,0,0,0,80
+647,Department of National Defense (DND),Philippine Navy ( Naval Forces ),Continuing Appropriations,Infrastructure Outlay,Water Supply Systems,4534,0,0,4534,0,0,0,0,0,0,0,0,80
+648,Department of National Defense (DND),Philippine Navy ( Naval Forces ),Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,22549,0,0,22549,0,0,0,0,0,0,0,0,80
+649,Department of National Defense (DND),Philippine Navy ( Naval Forces ),Continuing Appropriations,Infrastructure Outlay,Seaport Systems,13153,0,0,13153,0,0,0,0,0,0,0,0,81
+650,Department of National Defense (DND),Philippine Navy ( Naval Forces ),Continuing Appropriations,Infrastructure Outlay,Airport Systems,1674,0,0,1674,0,0,0,0,0,0,0,0,81
+651,Department of National Defense (DND),Philippine Navy ( Naval Forces ),Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,19804,0,0,19804,0,0,0,0,0,0,0,0,81
+652,Department of National Defense (DND),Philippine Navy ( Naval Forces ),Continuing Appropriations,Building and Other Structures Outlay,Buildings,17142,0,0,17142,0,0,0,0,0,0,0,0,81
+653,Department of National Defense (DND),Philippine Navy ( Naval Forces ),Continuing Appropriations,Building and Other Structures Outlay,Other Structures,19371,0,0,19371,0,0,0,0,0,0,0,0,81
+654,Department of National Defense (DND),General Headquarters AFP and AFP-Wide Service Support Units (AFPWSSUs),New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,18214,0,0,18214,0,0,0,0,81
+655,Department of National Defense (DND),General Headquarters AFP and AFP-Wide Service Support Units (AFPWSSUs),New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,84635,0,0,84635,0,0,0,0,81
+656,Department of National Defense (DND),General Headquarters AFP and AFP-Wide Service Support Units (AFPWSSUs),New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,1763,0,0,1763,1250097,0,0,1250097,81
+657,Department of National Defense (DND),General Headquarters AFP and AFP-Wide Service Support Units (AFPWSSUs),New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,1219893,0,0,1219893,455241,0,0,455241,81
+658,Department of National Defense (DND),General Headquarters AFP and AFP-Wide Service Support Units (AFPWSSUs),New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,1610790,0,0,1610790,81
+659,Department of National Defense (DND),General Headquarters AFP and AFP-Wide Service Support Units (AFPWSSUs),New General Appropriations,Machinery and Equipment Outlay,Other Machinery and Equipment,38615699,0,0,38615699,0,0,0,0,0,0,0,0,81
+660,Department of National Defense (DND),General Headquarters AFP and AFP-Wide Service Support Units (AFPWSSUs),Continuing Appropriations,Building and Other Structures Outlay,Other Structures,1307000,0,0,1307000,0,0,0,0,0,0,0,0,82
+661,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Repairs and Maintenance - Infrastructure Assets,Road Networks,2074092,0,0,2074092,2128489,0,0,2128489,10290493,0,0,10290493,82
+662,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Repairs and Maintenance - Infrastructure Assets,Flood Control Systems,1252531,0,0,1252531,1060000,0,0,1060000,2490000,0,0,2490000,82
+663,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Repairs and Maintenance - Infrastructure Assets,Other Infrastructure Assets,236281,0,0,236281,240199,0,0,240199,531316,0,0,531316,82
+664,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Repairs and Maintenance - Buildings and Other Structures,Buildings,580860,0,0,580860,406485,0,0,406485,0,0,0,0,82
+665,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Repairs and Maintenance - Transportation Equipment,Other Transportation Equipment,323963,0,0,323963,439893,0,0,439893,1341700,0,0,1341700,82
+666,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Road Networks,495671307,0,0,495671307,585883409,0,0,585883409,372674262,0,0,372674262,82
+667,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Flood Control Systems,343181955,0,0,343181955,346620462,0,0,346620462,4760870,0,0,4760870,82
+668,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Water Supply Systems,4448791,0,0,4448791,5940223,0,0,5940223,4836045,0,0,4836045,82
+669,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Right-of-Way,1999275,0,0,1999275,2000000,0,0,2000000,5000000,0,0,5000000,82
+670,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,86397328,0,0,86397328,23865719,0,0,23865719,9553138,0,0,9553138,82
+671,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,32975662,0,0,32975662,96721674,0,0,96721674,98508842,0,0,98508842,83
+672,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,School Buildings,21109528,0,0,21109528,0,0,0,0,0,0,0,0,83
+673,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Hospitals and Health Centers,4223966,0,0,4223966,0,0,0,0,0,0,0,0,83
+674,Department of Public Works and Highways (DPWH),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,14795189,0,0,14795189,7202074,0,0,7202074,194138,0,0,194138,83
+675,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Repairs and Maintenance - Infrastructure Assets,Road Networks,34605,0,0,34605,0,0,0,0,0,0,0,0,83
+676,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Repairs and Maintenance - Infrastructure Assets,Flood Control Systems,60406,0,0,60406,0,0,0,0,0,0,0,0,83
+677,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Repairs and Maintenance - Infrastructure Assets,Other Infrastructure Assets,28332,0,0,28332,0,0,0,0,0,0,0,0,83
+678,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Repairs and Maintenance - Buildings and Other Structures,Buildings,8594,0,0,8594,0,0,0,0,0,0,0,0,83
+679,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Repairs and Maintenance - Transportation Equipment,Other Transportation Equipment,65078,0,0,65078,0,0,0,0,0,0,0,0,83
+680,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Road Networks,49475263,0,0,49475263,0,0,0,0,0,0,0,0,83
+681,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Flood Control Systems,7173444,0,0,7173444,0,0,0,0,0,0,0,0,83
+682,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Water Supply Systems,1198409,0,0,1198409,0,0,0,0,0,0,0,0,83
+683,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Right-of-Way,718868,0,0,718868,0,0,0,0,0,0,0,0,83
+684,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,17996926,0,0,17996926,0,0,0,0,0,0,0,0,84
+685,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,1900908,0,0,1900908,0,0,0,0,0,0,0,0,84
+686,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,2575995,0,0,2575995,0,0,0,0,0,0,0,0,84
+687,Department of Public Works and Highways (DPWH),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,663980,0,0,663980,0,0,0,0,0,0,0,0,84
+688,Department of Public Works and Highways (DPWH),Office of the Secretary,Automatic Appropriations,Infrastructure Outlay,Road Networks,28200,0,0,28200,0,0,0,0,0,0,0,0,84
+689,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Repairs and Maintenance - Infrastructure Assets,Road Networks,9504902,0,0,9504902,0,0,0,0,0,0,0,0,84
+690,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Repairs and Maintenance - Infrastructure Assets,Other Infrastructure Assets,46263,0,0,46263,0,0,0,0,0,0,0,0,84
+691,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Repairs and Maintenance - Transportation Equipment,Other Transportation Equipment,23564,0,0,23564,0,0,0,0,0,0,0,0,84
+692,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Road Networks,48065210,0,0,48065210,0,0,0,0,0,0,0,0,84
+693,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Flood Control Systems,68635056,0,0,68635056,0,0,0,0,0,0,0,0,84
+694,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Water Supply Systems,44822,0,0,44822,0,0,0,0,0,0,0,0,84
+695,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Right-of-Way,2065480,0,0,2065480,0,0,0,0,0,0,0,0,85
+696,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Other Infrastructure Assets,528576,0,0,528576,0,0,0,0,0,0,0,0,85
+697,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Building and Other Structures Outlay,Buildings,2226297,0,0,2226297,0,0,0,0,0,0,0,0,85
+698,Department of Public Works and Highways (DPWH),Office of the Secretary,Unprogrammed Appropriations,Building and Other Structures Outlay,Other Structures,316984,0,0,316984,0,0,0,0,0,0,0,0,85
+699,Department of Science and Technology (DOST),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,80857,0,0,80857,576776,0,0,576776,168037,0,0,168037,85
+700,Department of Science and Technology (DOST),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,40000,0,0,40000,0,0,0,0,0,0,0,0,85
+701,Department of Science and Technology (DOST),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,344,0,0,344,0,0,0,0,0,0,0,0,85
+702,Department of Science and Technology (DOST),Food and Nutrition Research Institute,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,206674,0,0,206674,522644,0,0,522644,85
+703,Department of Science and Technology (DOST),Food and Nutrition Research Institute,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,412,0,0,412,0,0,0,0,0,0,0,0,86
+704,Department of Science and Technology (DOST),Forest Products Research and Development Institute,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,2000,0,0,2000,1000,0,0,1000,86
+705,Department of Science and Technology (DOST),Forest Products Research and Development Institute,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,2500,0,0,2500,0,0,0,0,86
+706,Department of Science and Technology (DOST),Forest Products Research and Development Institute,Continuing Appropriations,Building and Other Structures Outlay,Buildings,174,0,0,174,0,0,0,0,0,0,0,0,86
+707,Department of Science and Technology (DOST),Industrial Technology Development Institute,New General Appropriations,Building and Other Structures Outlay,Buildings,37724,0,0,37724,40000,0,0,40000,76478,0,0,76478,86
+708,Department of Science and Technology (DOST),Industrial Technology Development Institute,Continuing Appropriations,Building and Other Structures Outlay,Buildings,5242,0,0,5242,0,0,0,0,0,0,0,0,86
+709,Department of Science and Technology (DOST),Metals Industry Research and Development Center,New General Appropriations,Building and Other Structures Outlay,Buildings,12000,0,0,12000,22000,0,0,22000,22000,0,0,22000,87
+710,Department of Science and Technology (DOST),Metals Industry Research and Development Center,Continuing Appropriations,Building and Other Structures Outlay,Buildings,61,0,0,61,0,0,0,0,0,0,0,0,87
+711,Department of Science and Technology (DOST),National Research Council of the Philippines,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,700,0,0,700,87
+712,Department of Science and Technology (DOST),National Research Council of the Philippines,Continuing Appropriations,Land Improvements Outlay,Other Land Improvements,4221,0,0,4221,0,0,0,0,0,0,0,0,87
+713,Department of Science and Technology (DOST),National Research Council of the Philippines,Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,7454,0,0,7454,0,0,0,0,0,0,0,0,87
+714,Department of Science and Technology (DOST),Philippine Atmospheric Geophysical and Astronomical Services Administration,New General Appropriations,Building and Other Structures Outlay,Buildings,43498,0,0,43498,99300,0,0,99300,99300,0,0,99300,87
+715,Department of Science and Technology (DOST),Philippine Atmospheric Geophysical and Astronomical Services Administration,New General Appropriations,Building and Other Structures Outlay,Other Structures,9000,0,0,9000,0,0,0,0,0,0,0,0,87
+716,Department of Science and Technology (DOST),Philippine Atmospheric Geophysical and Astronomical Services Administration,Continuing Appropriations,Building and Other Structures Outlay,Buildings,58622,0,0,58622,0,0,0,0,0,0,0,0,88
+717,Department of Science and Technology (DOST),Philippine Council for Health Research and Development,New General Appropriations,Building and Other Structures Outlay,Buildings,12129,0,0,12129,0,0,0,0,0,0,0,0,88
+718,Department of Science and Technology (DOST),Philippine Council for Health Research and Development,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,0,0,0,0,610,0,0,610,88
+719,Department of Science and Technology (DOST),Philippine Council for Industry Energy and Emerging Technology Research and Development (PCIEERD),New General Appropriations,Building and Other Structures Outlay,Buildings,3802,0,0,3802,0,0,0,0,0,0,0,0,88
+720,Department of Science and Technology (DOST),Philippine Institute of Volcanology and Seismology,New General Appropriations,Building and Other Structures Outlay,Buildings,8962,0,0,8962,43300,0,0,43300,36300,0,0,36300,88
+721,Department of Science and Technology (DOST),Philippine Institute of Volcanology and Seismology,New General Appropriations,Building and Other Structures Outlay,Other Structures,35413,0,0,35413,23050,0,0,23050,0,0,0,0,88
+722,Department of Science and Technology (DOST),Philippine Institute of Volcanology and Seismology,Continuing Appropriations,Building and Other Structures Outlay,Buildings,4490,0,0,4490,0,0,0,0,0,0,0,0,88
+723,Department of Science and Technology (DOST),Philippine Institute of Volcanology and Seismology,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,2456,0,0,2456,0,0,0,0,0,0,0,0,88
+724,Department of Science and Technology (DOST),Philippine Nuclear Research Institute,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,97300,0,0,97300,0,0,0,0,89
+725,Department of Science and Technology (DOST),Philippine Nuclear Research Institute,Continuing Appropriations,Building and Other Structures Outlay,Buildings,6127,0,0,6127,0,0,0,0,0,0,0,0,89
+726,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Land Improvements Outlay,Other Land Improvements,0,0,0,0,0,0,0,0,22000,0,0,22000,89
+727,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Infrastructure Outlay,Road Networks,0,0,0,0,0,0,0,0,28000,0,0,28000,89
+728,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Infrastructure Outlay,Flood Control Systems,10000,0,0,10000,0,0,0,0,0,0,0,0,89
+729,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Infrastructure Outlay,Water Supply Systems,0,0,0,0,0,0,0,0,41000,0,0,41000,89
+730,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,0,0,0,0,60000,0,0,60000,89
+731,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,0,0,0,0,17374,0,0,17374,89
+732,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,181000,0,0,181000,149500,0,0,149500,89
+733,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Building and Other Structures Outlay,School Buildings,258459,0,0,258459,0,0,0,0,135000,0,0,135000,89
+734,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Building and Other Structures Outlay,Hostels and Dormitories,15342,0,0,15342,138500,0,0,138500,75000,0,0,75000,89
+735,Department of Science and Technology (DOST),Philippine Science High School System,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,50000,0,0,50000,162000,0,0,162000,90
+736,Department of Science and Technology (DOST),Philippine Science High School System,Continuing Appropriations,Land Improvements Outlay,Other Land Improvements,115,0,0,115,0,0,0,0,0,0,0,0,90
+737,Department of Science and Technology (DOST),Philippine Science High School System,Continuing Appropriations,Infrastructure Outlay,Water Supply Systems,423,0,0,423,0,0,0,0,0,0,0,0,90
+738,Department of Science and Technology (DOST),Philippine Science High School System,Continuing Appropriations,Infrastructure Outlay,Power Supply Systems,876,0,0,876,0,0,0,0,0,0,0,0,90
+739,Department of Science and Technology (DOST),Philippine Science High School System,Continuing Appropriations,Building and Other Structures Outlay,School Buildings,50442,0,0,50442,0,0,0,0,0,0,0,0,90
+740,Department of Science and Technology (DOST),Philippine Science High School System,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,1774,0,0,1774,0,0,0,0,0,0,0,0,90
+741,Department of Science and Technology (DOST),Philippine Textile Research Institute,New General Appropriations,Building and Other Structures Outlay,Buildings,39350,0,0,39350,34506,0,0,34506,36120,0,0,36120,90
+742,Department of Science and Technology (DOST),Philippine Textile Research Institute,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,1800,0,0,1800,0,0,0,0,90
+743,Department of Science and Technology (DOST),Science Education Institute,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,30000,0,0,30000,0,0,0,0,91
+744,Department of Science and Technology (DOST),Science and Technology Information Institute,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,1210,0,0,1210,0,0,0,0,91
+745,Department of Science and Technology (DOST),Science and Technology Information Institute,New General Appropriations,Building and Other Structures Outlay,Buildings,6802,0,0,6802,0,0,0,0,3465,0,0,3465,91
+746,Department of Science and Technology (DOST),Science and Technology Information Institute,New General Appropriations,Building and Other Structures Outlay,Other Structures,5793,0,0,5793,0,0,0,0,0,0,0,0,91
+747,Department of Science and Technology (DOST),Science and Technology Information Institute,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,635,0,0,635,0,0,0,0,0,0,0,0,91
+748,Department of Social Welfare and Development (DSWD),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,49906,0,0,49906,100000,0,0,100000,1895000,0,0,1895000,91
+749,Department of Social Welfare and Development (DSWD),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Other Structures,600,0,0,600,0,0,0,0,300,0,0,300,91
+750,Department of Social Welfare and Development (DSWD),Office of the Secretary,Continuing Appropriations,Land Improvements Outlay,Other Land Improvements,281,0,0,281,0,0,0,0,0,0,0,0,92
+751,Department of Social Welfare and Development (DSWD),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,211768,0,0,211768,0,0,0,0,0,0,0,0,92
+752,Department of Social Welfare and Development (DSWD),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,38678,0,0,38678,0,0,0,0,0,0,0,0,92
+753,Department of Social Welfare and Development (DSWD),National Council on Disability Affairs,New General Appropriations,Infrastructure Outlay,Communications Networks,0,0,0,0,1000,0,0,1000,0,0,0,0,92
+754,Department of Social Welfare and Development (DSWD),National Commission on Indigenous Peoples,Continuing Appropriations,Building and Other Structures Outlay,Buildings,7928,0,0,7928,0,0,0,0,0,0,0,0,92
+755,Department of Tourism (DOT),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,250000,0,0,250000,0,0,0,0,0,0,0,0,92
+756,Department of Tourism (DOT),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,15000,0,0,15000,0,0,0,0,0,0,0,0,93
+757,Department of Tourism (DOT),Intramuros Administration,New General Appropriations,Building and Other Structures Outlay,Buildings,10453,0,0,10453,4021,0,0,4021,0,0,0,0,93
+758,Department of Tourism (DOT),Intramuros Administration,New General Appropriations,Building and Other Structures Outlay,Other Structures,245,0,0,245,20000,0,0,20000,20000,0,0,20000,93
+759,Department of Tourism (DOT),National Parks Development Committee,New General Appropriations,Land Improvements Outlay,Other Land Improvements,19469,0,0,19469,28200,0,0,28200,50000,0,0,50000,93
+760,Department of Tourism (DOT),National Parks Development Committee,New General Appropriations,Building and Other Structures Outlay,Buildings,65133,0,0,65133,68509,0,0,68509,1247,0,0,1247,93
+761,Department of Trade and Industry (DTI),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,10000,0,0,10000,93
+762,Department of Trade and Industry (DTI),Construction Industry Authority of the Philippines (CIAP),New General Appropriations,Infrastructure Outlay,Communications Networks,2984,0,0,2984,0,0,0,0,0,0,0,0,94
+763,Department of Trade and Industry (DTI),Cooperative Development Authority,New General Appropriations,Building and Other Structures Outlay,Buildings,25190,0,0,25190,0,0,0,0,0,0,0,0,94
+764,Department of Trade and Industry (DTI),Philippine Trade Training Center,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,6912,0,0,6912,0,0,0,0,94
+765,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Semi-Expendable Machinery and Equipment Expenses,Information and Communications Technology Equipment,0,0,0,0,0,0,0,0,32505,0,0,32505,94
+766,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Repairs and Maintenance - Leased Assets,Other Leased Assets,717936,0,0,717936,1325356,0,0,1325356,500000,0,0,500000,94
+767,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Rent/Lease Expenses,Rents - Building and Structures,5560180,0,0,5560180,0,0,0,0,0,0,0,0,94
+768,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Subscription Expenses,ICT Software Subscription,0,0,0,0,0,0,0,0,289379,0,0,289379,95
+769,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Road Networks,843129,0,0,843129,177986,0,0,177986,404335,0,0,404335,95
+770,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Seaport Systems,1872822,0,0,1872822,3773267,0,0,3773267,4417039,0,0,4417039,95
+771,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Airport Systems,6383150,0,0,6383150,7703102,0,0,7703102,8177791,0,0,8177791,95
+772,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Railway Systems,0,0,0,0,17934547,0,0,17934547,51982727,0,0,51982727,95
+773,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Right-of-Way,0,0,0,0,2789665,0,0,2789665,2789665,0,0,2789665,95
+774,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,58539,0,0,58539,2487822,0,0,2487822,4052712,0,0,4052712,95
+775,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,139798,0,0,139798,22000,0,0,22000,646322,0,0,646322,95
+776,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Machinery and Equipment Outlay,Information and Communication Technology Equipment,0,0,0,0,0,0,0,0,265024,0,0,265024,95
+777,Department of Transportation (DOTr),Office of the Secretary,New General Appropriations,Transportation Equipment Outlay,Watercrafts,0,0,0,0,0,0,0,0,4218513,0,0,4218513,95
+778,Department of Transportation (DOTr),Office of the Secretary,Continuing Appropriations,Repairs and Maintenance - Leased Assets,Other Leased Assets,6713,0,0,6713,0,0,0,0,0,0,0,0,95
+779,Department of Transportation (DOTr),Office of the Secretary,Continuing Appropriations,Rent/Lease Expenses,Rents - Building and Structures,369367,0,0,369367,0,0,0,0,0,0,0,0,96
+780,Department of Transportation (DOTr),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Road Networks,710174,0,0,710174,0,0,0,0,0,0,0,0,96
+781,Department of Transportation (DOTr),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Seaport Systems,148081,0,0,148081,0,0,0,0,0,0,0,0,96
+782,Department of Transportation (DOTr),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Airport Systems,554660,0,0,554660,0,0,0,0,0,0,0,0,96
+783,Department of Transportation (DOTr),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Railway Systems,55619953,0,0,55619953,0,0,0,0,0,0,0,0,96
+784,Department of Transportation (DOTr),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Right-of-Way,8949284,0,0,8949284,0,0,0,0,0,0,0,0,96
+785,Department of Transportation (DOTr),Office of the Secretary,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,1415849,0,0,1415849,0,0,0,0,0,0,0,0,96
+786,Department of Transportation (DOTr),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Seaport Systems,2234084,0,0,2234084,0,0,0,0,0,0,0,0,96
+787,Department of Transportation (DOTr),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Airport Systems,680968,0,0,680968,0,0,0,0,0,0,0,0,96
+788,Department of Transportation (DOTr),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Railway Systems,40743526,0,0,40743526,0,0,0,0,0,0,0,0,96
+789,Department of Transportation (DOTr),Office of the Secretary,Unprogrammed Appropriations,Infrastructure Outlay,Other Infrastructure Assets,1179010,0,0,1179010,0,0,0,0,0,0,0,0,96
+790,Department of Transportation (DOTr),Civil Aeronautics Board,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,15000,0,0,15000,0,0,0,0,96
+791,Department of Transportation (DOTr),Civil Aeronautics Board,New General Appropriations,Building and Other Structures Outlay,Buildings,1518,0,0,1518,0,0,0,0,0,0,0,0,97
+792,Department of Transportation (DOTr),Maritime Industry Authority (MARINA),New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,8000,0,0,8000,97
+793,Department of Transportation (DOTr),Philippine Coast Guard,New General Appropriations,Repairs and Maintenance - Transportation Equipment,Watercrafts,0,0,0,0,0,0,0,0,1854725,0,0,1854725,97
+794,Department of Transportation (DOTr),Philippine Coast Guard,New General Appropriations,Building and Other Structures Outlay,Buildings,88958,0,0,88958,518709,0,0,518709,1254637,0,0,1254637,97
+795,Department of Transportation (DOTr),Philippine Coast Guard,New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,550070,0,0,550070,97
+796,Department of Transportation (DOTr),Philippine Coast Guard,New General Appropriations,Transportation Equipment Outlay,Watercrafts,0,0,0,0,45000,0,0,45000,5047234,0,0,5047234,97
+797,Department of Transportation (DOTr),Philippine Coast Guard,Continuing Appropriations,Infrastructure Outlay,Communications Networks,650,0,0,650,0,0,0,0,0,0,0,0,97
+798,Department of Transportation (DOTr),Philippine Coast Guard,Continuing Appropriations,Building and Other Structures Outlay,Buildings,323895,0,0,323895,0,0,0,0,0,0,0,0,98
+799,Department of Transportation (DOTr),Toll Regulatory Board,New General Appropriations,Infrastructure Outlay,Right-of-Way,73919,0,0,73919,0,0,0,0,0,0,0,0,98
+800,Department of Transportation (DOTr),Toll Regulatory Board,Continuing Appropriations,Infrastructure Outlay,Right-of-Way,122055,0,0,122055,0,0,0,0,0,0,0,0,98
+801,Department of Economy Planning and Development (DEPDev),Office of the Secretary,New General Appropriations,Land Improvements Outlay,Other Land Improvements,0,0,0,0,6000,0,0,6000,0,0,0,0,98
+802,Department of Economy Planning and Development (DEPDev),Office of the Secretary,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,8000,0,0,8000,0,0,0,0,98
+803,Department of Economy Planning and Development (DEPDev),Office of the Secretary,New General Appropriations,Building and Other Structures Outlay,Buildings,58354,0,0,58354,460702,0,0,460702,478679,0,0,478679,98
+804,Department of Economy Planning and Development (DEPDev),Office of the Secretary,Continuing Appropriations,Building and Other Structures Outlay,Buildings,14040,0,0,14040,0,0,0,0,0,0,0,0,99
+805,Department of Economy Planning and Development (DEPDev),Commission on Population and Development,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,4826,0,0,4826,0,0,0,0,99
+806,Department of Economy Planning and Development (DEPDev),Philippine Statistics Authority,New General Appropriations,Building and Other Structures Outlay,Buildings,30000,0,0,30000,279650,0,0,279650,125884,0,0,125884,99
+807,Department of Economy Planning and Development (DEPDev),Philippine Statistics Authority,Continuing Appropriations,Building and Other Structures Outlay,Buildings,101298,0,0,101298,0,0,0,0,0,0,0,0,99
+808,Presidential Communications Office (PCO),Presidential Communications Office (Proper),New General Appropriations,Building and Other Structures Outlay,Buildings,45757,0,0,45757,0,0,0,0,0,0,0,0,99
+809,Presidential Communications Office (PCO),Philippine Information Agency,New General Appropriations,Building and Other Structures Outlay,Buildings,35000,0,0,35000,0,0,0,0,0,0,0,0,100
+810,Presidential Communications Office (PCO),Philippine Information Agency,New General Appropriations,Building and Other Structures Outlay,Other Structures,2437,0,0,2437,0,0,0,0,0,0,0,0,100
+811,Other Executive Offices (OEOs),Commission on Higher Education,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,100000,0,0,100000,100
+812,Other Executive Offices (OEOs),Commission on Higher Education,New General Appropriations,Building and Other Structures Outlay,Buildings,153177,0,0,153177,2316,0,0,2316,160165,0,0,160165,100
+813,Other Executive Offices (OEOs),Commission on Higher Education,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,1500,0,0,1500,150000,0,0,150000,100
+814,Other Executive Offices (OEOs),Commission on Higher Education,Continuing Appropriations,Building and Other Structures Outlay,Buildings,113405,0,0,113405,0,0,0,0,0,0,0,0,100
+815,Other Executive Offices (OEOs),Commission on the Filipino Language,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,7000,0,0,7000,100
+816,Other Executive Offices (OEOs),Dangerous Drugs Board,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,8500,0,0,8500,0,0,0,0,101
+817,Other Executive Offices (OEOs),Film Development Council of the Philippines,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,27900,0,0,27900,0,0,0,0,101
+818,Other Executive Offices (OEOs),Mindanao Development Authority,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,152237,0,0,152237,0,0,0,0,101
+819,Other Executive Offices (OEOs),National Commission for Culture and the Arts-Proper,Automatic Appropriations,Assistance to Local Government Units,Financial Assistance to Local Government Units,0,0,0,0,0,0,0,0,33443,0,0,33443,101
+820,Other Executive Offices (OEOs),National Historical Commission of the Philippines,New General Appropriations,Heritage Assets,Historical Buildings,24400,0,0,24400,97367,0,0,97367,123058,0,0,123058,101
+821,Other Executive Offices (OEOs),National Historical Commission of the Philippines,Continuing Appropriations,Building and Other Structures Outlay,Other Structures,1707,0,0,1707,0,0,0,0,0,0,0,0,102
+822,Other Executive Offices (OEOs),National Historical Commission of the Philippines,Continuing Appropriations,Heritage Assets,Historical Buildings,3474,0,0,3474,0,0,0,0,0,0,0,0,102
+823,Other Executive Offices (OEOs),National Library of the Philippines,New General Appropriations,Building and Other Structures Outlay,Other Structures,2518,0,0,2518,0,0,0,0,0,0,0,0,102
+824,Other Executive Offices (OEOs),National Archives of the Philippines,New General Appropriations,Building and Other Structures Outlay,Buildings,484453,0,0,484453,480000,0,0,480000,0,0,0,0,102
+825,Other Executive Offices (OEOs),National Archives of the Philippines,Continuing Appropriations,Building and Other Structures Outlay,Buildings,2607,0,0,2607,0,0,0,0,0,0,0,0,102
+826,Other Executive Offices (OEOs),National Commission on Indigenous Peoples,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,50000,0,0,50000,102
+827,Other Executive Offices (OEOs),National Security Council,New General Appropriations,Infrastructure Outlay,Communications Networks,102286,0,0,102286,10000,0,0,10000,0,0,0,0,103
+828,Other Executive Offices (OEOs),National Security Council,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,0,0,0,0,10000,0,0,10000,103
+829,Other Executive Offices (OEOs),Office of the Presidential Adviser on Peace Reconciliation and Unity,New General Appropriations,Infrastructure Outlay,Road Networks,2149934,0,0,2149934,4209252,0,0,4209252,4081510,0,0,4081510,103
+830,Other Executive Offices (OEOs),Office of the Presidential Adviser on Peace Reconciliation and Unity,New General Appropriations,Infrastructure Outlay,Flood Control Systems,0,0,0,0,10152,0,0,10152,0,0,0,0,103
+831,Other Executive Offices (OEOs),Office of the Presidential Adviser on Peace Reconciliation and Unity,New General Appropriations,Infrastructure Outlay,Water Supply Systems,195000,0,0,195000,569167,0,0,569167,200000,0,0,200000,103
+832,Other Executive Offices (OEOs),Office of the Presidential Adviser on Peace Reconciliation and Unity,New General Appropriations,Infrastructure Outlay,Power Supply Systems,0,0,0,0,0,0,0,0,139000,0,0,139000,103
+833,Other Executive Offices (OEOs),Office of the Presidential Adviser on Peace Reconciliation and Unity,New General Appropriations,Infrastructure Outlay,Seaport Systems,0,0,0,0,35278,0,0,35278,0,0,0,0,103
+834,Other Executive Offices (OEOs),Office of the Presidential Adviser on Peace Reconciliation and Unity,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,2221066,0,0,2221066,101151,0,0,101151,504490,0,0,504490,103
+835,Other Executive Offices (OEOs),Office of the Presidential Adviser on Peace Reconciliation and Unity,New General Appropriations,Building and Other Structures Outlay,Buildings,134000,0,0,134000,0,0,0,0,0,0,0,0,103
+836,Other Executive Offices (OEOs),Office of the Presidential Adviser on Peace Reconciliation and Unity,New General Appropriations,Building and Other Structures Outlay,Markets,45000,0,0,45000,0,0,0,0,0,0,0,0,103
+837,Other Executive Offices (OEOs),Office of the Presidential Adviser on Peace Reconciliation and Unity,New General Appropriations,Building and Other Structures Outlay,Other Structures,180000,0,0,180000,0,0,0,0,0,0,0,0,103
+838,Other Executive Offices (OEOs),Philippine Drug Enforcement Agency,New General Appropriations,Infrastructure Outlay,Communications Networks,3599,0,0,3599,4400,0,0,4400,6400,0,0,6400,104
+839,Other Executive Offices (OEOs),Philippine Drug Enforcement Agency,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,45437,0,0,45437,0,0,0,0,104
+840,Other Executive Offices (OEOs),Philippine Drug Enforcement Agency,New General Appropriations,Building and Other Structures Outlay,Buildings,465000,0,0,465000,0,0,0,0,452587,0,0,452587,104
+841,Other Executive Offices (OEOs),Philippine Drug Enforcement Agency,New General Appropriations,Machinery and Equipment Outlay,Military Police and Security Equipment,0,0,0,0,0,0,0,0,176493,0,0,176493,104
+842,Other Executive Offices (OEOs),Philippine Drug Enforcement Agency,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,6155,0,0,6155,0,0,0,0,0,0,0,0,104
+843,Other Executive Offices (OEOs),Philippine Sports Commission,New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,150000,0,0,150000,300000,0,0,300000,104
+844,Other Executive Offices (OEOs),Philippine Sports Commission,New General Appropriations,Building and Other Structures Outlay,Other Structures,0,0,0,0,10000,0,0,10000,330405,0,0,330405,104
+845,Other Executive Offices (OEOs),Presidential Management Staff,Continuing Appropriations,Building and Other Structures Outlay,Buildings,1600,0,0,1600,0,0,0,0,0,0,0,0,104
+846,Other Executive Offices (OEOs),Philippine Space Agency,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,0,0,0,0,0,0,372800,0,0,372800,105
+847,The Judiciary (JUD),Supreme Court of the Philippines and the Lower Courts,New General Appropriations,Building and Other Structures Outlay,Buildings,4297379,0,0,4297379,720288,0,0,720288,2688606,0,0,2688606,105
+848,The Judiciary (JUD),Sandiganbayan,New General Appropriations,Building and Other Structures Outlay,Other Structures,415000,0,0,415000,415000,0,0,415000,84150,0,0,84150,105
+849,The Judiciary (JUD),Sandiganbayan,Continuing Appropriations,Building and Other Structures Outlay,Buildings,2025,0,0,2025,0,0,0,0,0,0,0,0,105
+850,The Judiciary (JUD),Court of Appeals,New General Appropriations,Building and Other Structures Outlay,Buildings,11296,0,0,11296,111120,0,0,111120,384653,0,0,384653,105
+851,The Judiciary (JUD),Court of Appeals,Continuing Appropriations,Building and Other Structures Outlay,Buildings,3092,0,0,3092,0,0,0,0,0,0,0,0,106
+852,The Judiciary (JUD),Court of Tax Appeals,New General Appropriations,Land Improvements Outlay,Other Land Improvements,0,0,0,0,54000,0,0,54000,0,0,0,0,106
+853,The Judiciary (JUD),Court of Tax Appeals,New General Appropriations,Building and Other Structures Outlay,Buildings,4000,0,0,4000,0,0,0,0,0,0,0,0,106
+854,Civil Service Commission (CSC),Civil Service Commission,New General Appropriations,Building and Other Structures Outlay,Buildings,95200,0,0,95200,11075,0,0,11075,0,0,0,0,106
+855,Civil Service Commission (CSC),Civil Service Commission,New General Appropriations,Building and Other Structures Outlay,Other Structures,6364,0,0,6364,21380,0,0,21380,0,0,0,0,106
+856,Commission on Audit (COA),Commission on Audit (COA),New General Appropriations,Building and Other Structures Outlay,Buildings,558896,0,0,558896,45000,0,0,45000,581762,0,0,581762,106
+857,Commission on Audit (COA),Commission on Audit (COA),Continuing Appropriations,Building and Other Structures Outlay,Buildings,39177,0,0,39177,0,0,0,0,0,0,0,0,107
+858,Commission on Elections (COMELEC),Commission on Elections (COMELEC),New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,3738099,0,0,3738099,3428854,0,0,3428854,107
+859,Commission on Elections (COMELEC),Commission on Elections (COMELEC),Continuing Appropriations,Building and Other Structures Outlay,Buildings,138091,0,0,138091,0,0,0,0,0,0,0,0,107
+860,Office of the Ombudsman (OMB),Office of the Ombudsman,New General Appropriations,Building and Other Structures Outlay,Buildings,48111,0,0,48111,50000,0,0,50000,0,0,0,0,107
+861,Office of the Ombudsman (OMB),Office of the Ombudsman,New General Appropriations,Building and Other Structures Outlay,Other Structures,1889,0,0,1889,0,0,0,0,0,0,0,0,107
+862,Commission on Human Rights (CHR),Commission on Human Rights (CHR),New General Appropriations,Building and Other Structures Outlay,Buildings,0,0,0,0,25581,0,0,25581,14419,0,0,14419,108
+863,Commission on Human Rights (CHR),Commission on Human Rights (CHR),Continuing Appropriations,Building and Other Structures Outlay,Buildings,3546,0,0,3546,0,0,0,0,0,0,0,0,108
+864,Budgetary Support to Government Corporations (BSGC),National Electrification Administration,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,0,0,0,0,20000,0,20000,0,0,0,0,108
+865,Budgetary Support to Government Corporations (BSGC),National Electrification Administration,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Power Supply Systems,0,2551892,0,2551892,0,5027337,0,5027337,0,9324200,0,9324200,108
+866,Budgetary Support to Government Corporations (BSGC),Aurora Pacific Economic Zone and Freeport Authority,New General Appropriations,Investment in Government-Owned and/or Controlled Corporations,Road Networks,0,0,0,0,0,123760,0,123760,0,205677,0,205677,108
+867,Budgetary Support to Government Corporations (BSGC),Aurora Pacific Economic Zone and Freeport Authority,New General Appropriations,Investment in Government-Owned and/or Controlled Corporations,Other Infrastructure Assets,0,0,0,0,0,6400,0,6400,0,50000,0,50000,108
+868,Budgetary Support to Government Corporations (BSGC),Authority of the Freeport Area of Bataan,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Other Infrastructure Assets,0,0,0,0,0,0,0,0,0,100000,0,100000,108
+869,Budgetary Support to Government Corporations (BSGC),Authority of the Freeport Area of Bataan,New General Appropriations,Investment in Government-Owned and/or Controlled Corporations,Other Infrastructure Assets,0,140000,0,140000,0,200000,0,200000,0,150000,0,150000,109
+870,Budgetary Support to Government Corporations (BSGC),Development Academy of the Philippines,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Other Infrastructure Assets,0,15000,0,15000,0,0,0,0,0,425767,0,425767,109
+871,Budgetary Support to Government Corporations (BSGC),National Food Authority,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,0,0,0,0,5363000,0,5363000,0,80000,0,80000,109
+872,Budgetary Support to Government Corporations (BSGC),National Power Corporation,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Power Supply Systems,0,1316421,0,1316421,0,870905,0,870905,0,1866377,0,1866377,109
+873,Budgetary Support to Government Corporations (BSGC),National Power Corporation,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Other Infrastructure Assets,0,0,0,0,0,0,0,0,0,82000,0,82000,109
+874,Budgetary Support to Government Corporations (BSGC),National Kidney and Transplant Institute,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Other Infrastructure Assets,0,0,0,0,0,0,0,0,0,500000,0,500000,109
+875,Budgetary Support to Government Corporations (BSGC),Local Water Utilities Administration,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Water Supply Systems,0,884626,0,884626,0,395170,0,395170,0,0,0,0,110
+876,Budgetary Support to Government Corporations (BSGC),Philippine Children’s Medical Center,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Other Infrastructure Assets,0,0,0,0,0,0,0,0,0,210258,0,210258,110
+877,Budgetary Support to Government Corporations (BSGC),Bases Conversion and Development Authority,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,2801865,0,2801865,0,2490215,0,2490215,0,1147175,0,1147175,110
+878,Budgetary Support to Government Corporations (BSGC),Tourism Infrastructure and Enterprise Zone Authority,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,520000,0,520000,0,1545000,0,1545000,0,0,0,0,110
+879,Budgetary Support to Government Corporations (BSGC),Cagayan Economic Zone Authority,New General Appropriations,Investment in Government-Owned and/or Controlled Corporations,Other Infrastructure Assets,0,1000000,0,1000000,0,324427,0,324427,0,1095231,0,1095231,110
+880,Budgetary Support to Government Corporations (BSGC),National Housing Authority,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,0,0,0,0,250000,0,250000,0,0,0,0,111
+881,Budgetary Support to Government Corporations (BSGC),National Housing Authority,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Housing and Community Facilities,0,2729936,0,2729936,0,2200000,0,2200000,0,3897272,0,3897272,111
+882,Budgetary Support to Government Corporations (BSGC),Tourism Promotions Board,Automatic Appropriations,Building and Other Structures Outlay,Buildings,0,854147,0,854147,0,0,0,0,0,0,0,0,111
+883,Budgetary Support to Government Corporations (BSGC),Social Housing Finance Corporation,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Housing and Community Facilities,0,136899,0,136899,0,121036,0,121036,0,166080,0,166080,111
+884,Budgetary Support to Government Corporations (BSGC),Social Housing Finance Corporation,Continuing Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Housing and Community Facilities,0,313922,0,313922,0,0,0,0,0,0,0,0,111
+885,Budgetary Support to Government Corporations (BSGC),Philippine Fisheries Development Authority,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,6037082,0,6037082,0,5525549,0,5525549,0,4530000,0,4530000,111
+886,Budgetary Support to Government Corporations (BSGC),Philippine National Railways,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,0,0,0,0,0,0,0,0,500000,0,500000,112
+887,Budgetary Support to Government Corporations (BSGC),Cultural Center of the Philippines,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,400000,0,400000,0,1029109,0,1029109,0,0,0,0,112
+888,Budgetary Support to Government Corporations (BSGC),Philippine Rice Research Institute,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,10000,0,10000,0,0,0,0,0,79500,0,79500,112
+889,Budgetary Support to Government Corporations (BSGC),Philippine Ports Authority,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Subsidy Support to Operations of GOCCs,0,0,0,0,0,1350000,0,1350000,0,0,0,0,112
+890,Budgetary Support to Government Corporations (BSGC),National Irrigation Administration,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Irrigation Systems,0,57266110,0,57266110,0,56419805,0,56419805,0,50123323,0,50123323,112
+891,Budgetary Support to Government Corporations (BSGC),National Irrigation Administration,Unprogrammed Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Irrigation Systems,0,7088715,0,7088715,0,0,0,0,0,0,0,0,113
+892,Budgetary Support to Government Corporations (BSGC),Sugar Regulatory Administration,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Road Networks,0,0,0,0,0,500000,0,500000,0,520000,0,520000,113
+893,Budgetary Support to Government Corporations (BSGC),Subic Bay Metropolitan Authority,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Road Networks,0,112000,0,112000,0,100000,0,100000,0,225000,0,225000,113
+894,Budgetary Support to Government Corporations (BSGC),Subic Bay Metropolitan Authority,New General Appropriations,Budgetary Support to Government-Owned or Controlled Corporations,Other Infrastructure Assets,0,569010,0,569010,0,487464,0,487464,0,275000,0,275000,113
+895,Budgetary Support to Government Corporations (BSGC),Zamboanga City Special Economic Zone Authority,New General Appropriations,Investment in Government-Owned and/or Controlled Corporations,Other Infrastructure Assets,0,0,0,0,0,265000,0,265000,0,310000,0,310000,113
+896,Allocations to Local Government Units (ALGU),Metropolitan Manila Development Authority,New General Appropriations,Infrastructure Outlay,Flood Control Systems,0,0,2000671,2000671,0,0,2792277,2792277,0,0,2272277,2272277,113
+897,Allocations to Local Government Units (ALGU),Metropolitan Manila Development Authority,New General Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,637707,637707,0,0,1953200,1953200,0,0,901329,901329,114
+898,Allocations to Local Government Units (ALGU),Metropolitan Manila Development Authority,Continuing Appropriations,Infrastructure Outlay,Other Infrastructure Assets,0,0,568352,568352,0,0,0,0,0,0,0,0,114
+899,National Tax Allotment2,None,None,None,Internal Revenue Allotment,0,0,174275040,174275040,0,0,206920974,206920974,0,0,238101934,238101934,114
+900,Local Government Support Fund (formerly Financial Subsidy to LGUs),None,None,None,Assistance to Local Government Units,0,0,13950800,13950800,0,0,16400479,16400479,0,0,34161705,34161705,114
+901,Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)3,None,None,None,Assistance to Local Government Units,0,0,19102645,19102645,0,0,21684358,21684358,0,0,23796480,23796480,114
+902,National Disaster Risk Reduction and Management Fund ( Calamity Fund ),None,None,None,Infrastructure Outlay,0,0,0,0,9314750,0,0,9314750,12467355,0,0,12467355,114
+903,Revised AFP Modernization Program,None,None,None,Machinery and Equipment Outlay,0,0,0,0,35000000,0,0,35000000,40000000,0,0,40000000,114

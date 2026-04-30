@@ -1,0 +1,571 @@
+Dept_Name,Agency_Name,Region_Name,Allocation_Type,2026_GAA_Amount,Page_No
+Congress of the Philippines (CONGRESS),None,NCR,Regional,39430270,1
+Office of the President (OP),None,NCR,Regional,28104653,1
+Office of the Vice-President (OVP),None,NCR,Regional,902895,1
+Department of Agrarian Reform (DAR),None,Central Office,Central_Office,10266961,1
+Department of Agrarian Reform (DAR),None,CAR,Regional,292878,1
+Department of Agrarian Reform (DAR),None,Region I,Regional,337540,1
+Department of Agrarian Reform (DAR),None,Region II,Regional,456688,1
+Department of Agrarian Reform (DAR),None,Region III,Regional,478154,1
+Department of Agrarian Reform (DAR),None,Region IV-A,Regional,457478,1
+Department of Agrarian Reform (DAR),None,Region IV-B,Regional,334559,1
+Department of Agriculture (DA),None,Central Office,Central_Office,78174192,1
+Department of Agriculture (DA),None,NCR,Regional,16520285,1
+Department of Agriculture (DA),None,CAR,Regional,6666135,1
+Department of Agriculture (DA),None,Region I,Regional,3118861,1
+Department of Agriculture (DA),None,Region II,Regional,11057607,1
+Department of Agriculture (DA),None,Region III,Regional,14635289,1
+Department of Agriculture (DA),None,Region IV-A,Regional,4929071,1
+Department of Agriculture (DA),None,Region IV-B,Regional,3917685,1
+Department of Budget and Management (DBM),None,Central Office,Central_Office,2654158,1
+Department of Budget and Management (DBM),None,NCR,Regional,245694,1
+Department of Budget and Management (DBM),None,CAR,Regional,40453,1
+Department of Budget and Management (DBM),None,Region I,Regional,39152,1
+Department of Budget and Management (DBM),None,Region II,Regional,46991,1
+Department of Budget and Management (DBM),None,Region III,Regional,55051,1
+Department of Budget and Management (DBM),None,Region IV-A,Regional,45391,1
+Department of Budget and Management (DBM),None,Region IV-B,Regional,44019,1
+Department of Education (DepEd),None,Nationwide,Central_Office,124817868,1
+Department of Education (DepEd),None,Central Office,Central_Office,2918135,1
+Department of Education (DepEd),None,NCR,Regional,75164523,1
+Department of Education (DepEd),None,CAR,Regional,49249535,1
+Department of Education (DepEd),None,Region I,Regional,20707402,1
+Department of Education (DepEd),None,Region II,Regional,36166360,1
+Department of Education (DepEd),None,Region III,Regional,92290370,1
+Department of Education (DepEd),None,Region IV-A,Regional,108704284,1
+Department of Education (DepEd),None,Region IV-B,Regional,34779871,1
+State Universities and Colleges (SUCs),None,NCR,Regional,40402168,1
+State Universities and Colleges (SUCs),None,CAR,Regional,7359284,1
+State Universities and Colleges (SUCs),None,Region I,Regional,3742734,1
+State Universities and Colleges (SUCs),None,Region II,Regional,5376400,1
+State Universities and Colleges (SUCs),None,Region III,Regional,11459594,1
+State Universities and Colleges (SUCs),None,Region IV-A,Regional,7703132,1
+State Universities and Colleges (SUCs),None,Region IV-B,Regional,4068998,1
+Department of Energy (DOE),None,NCR,Regional,4012283,1
+Department of Energy (DOE),None,CAR,Regional,85064,1
+Department of Energy (DOE),None,Region III,Regional,8446,1
+Department of Energy (DOE),None,Region IV-A,Regional,20000,1
+Department of Environment and Natural Resources (DENR),None,Central Office,Central_Office,7364396,1
+Department of Environment and Natural Resources (DENR),None,NCR,Regional,2734540,1
+Department of Environment and Natural Resources (DENR),None,CAR,Regional,975465,1
+Department of Environment and Natural Resources (DENR),None,Region I,Regional,1168372,1
+Department of Environment and Natural Resources (DENR),None,Region II,Regional,1224375,1
+Department of Environment and Natural Resources (DENR),None,Region III,Regional,1548173,1
+Department of Environment and Natural Resources (DENR),None,Region IV-A,Regional,1312452,1
+Department of Environment and Natural Resources (DENR),None,Region IV-B,Regional,1538348,1
+Department of Finance (DOF),None,NCR,Regional,23807596,1
+Department of Finance (DOF),None,CAR,Regional,609214,1
+Department of Finance (DOF),None,Region I,Regional,440886,1
+Department of Finance (DOF),None,Region II,Regional,411353,1
+Department of Finance (DOF),None,Region III,Regional,1023156,1
+Department of Finance (DOF),None,Region IV-A,Regional,1315945,1
+Department of Finance (DOF),None,Region IV-B,Regional,14523,1
+Department of Foreign Affairs (DFA),None,Central Office,Central_Office,28610110,1
+Department of Foreign Affairs (DFA),None,NCR,Regional,210210,1
+Department of Foreign Affairs (DFA),None,CAR,Regional,4414,1
+Department of Foreign Affairs (DFA),None,Region I,Regional,960,1
+Department of Foreign Affairs (DFA),None,Region II,Regional,2244,1
+Department of Foreign Affairs (DFA),None,Region III,Regional,5566,1
+Department of Foreign Affairs (DFA),None,Region IV-A,Regional,4406,1
+Department of Foreign Affairs (DFA),None,Region IV-B,Regional,10593,1
+Department of Health (DOH),None,Nationwide,Central_Office,111017972,1
+Department of Health (DOH),None,Central Office,Central_Office,24748162,1
+Department of Health (DOH),None,NCR,Regional,52363069,1
+Department of Health (DOH),None,CAR,Regional,10078632,1
+Department of Health (DOH),None,Region I,Regional,6851336,1
+Department of Health (DOH),None,Region II,Regional,9599192,1
+Department of Health (DOH),None,Region III,Regional,11624749,1
+Department of Health (DOH),None,Region IV-A,Regional,5865837,1
+Department of Health (DOH),None,Region IV-B,Regional,2149319,1
+Department of Human Settlements and Urban Development (DHSUD),None,Central Office,Central_Office,932585,1
+Department of Human Settlements and Urban Development (DHSUD),None,NCR,Regional,91070,1
+Department of Human Settlements and Urban Development (DHSUD),None,CAR,Regional,53024,1
+Department of Human Settlements and Urban Development (DHSUD),None,Region I,Regional,56882,1
+Department of Human Settlements and Urban Development (DHSUD),None,Region II,Regional,53243,1
+Department of Human Settlements and Urban Development (DHSUD),None,Region III,Regional,64731,1
+Department of Human Settlements and Urban Development (DHSUD),None,Region IV-A,Regional,97993,1
+Department of Human Settlements and Urban Development (DHSUD),None,Region IV-B,Regional,66261,1
+Department of Information and Communications Technology (DICT),None,Central Office,Central_Office,16771845,1
+Department of Information and Communications Technology (DICT),None,NCR,Regional,1059371,1
+Department of Information and Communications Technology (DICT),None,CAR,Regional,22280,1
+Department of Information and Communications Technology (DICT),None,Region I,Regional,27149,1
+Department of Information and Communications Technology (DICT),None,Region II,Regional,47355,1
+Department of Information and Communications Technology (DICT),None,Region III,Regional,26815,1
+Department of Information and Communications Technology (DICT),None,Region IV-A,Regional,26093,1
+Department of Information and Communications Technology (DICT),None,Region IV-B,Regional,18514,1
+Department of the Interior and Local Government (DILG),None,Central Office,Central_Office,221696328,1
+Department of the Interior and Local Government (DILG),None,NCR,Regional,49916707,1
+Department of the Interior and Local Government (DILG),None,CAR,Regional,2172264,1
+Department of the Interior and Local Government (DILG),None,Region I,Regional,1503079,1
+Department of the Interior and Local Government (DILG),None,Region II,Regional,1780767,1
+Department of the Interior and Local Government (DILG),None,Region III,Regional,3248255,1
+Department of the Interior and Local Government (DILG),None,Region IV-A,Regional,4930377,1
+Department of the Interior and Local Government (DILG),None,Region IV-B,Regional,1342360,1
+Department of Justice (DOJ),None,Central Office,Central_Office,23738454,1
+Department of Justice (DOJ),None,NCR,Regional,11006546,1
+Department of Justice (DOJ),None,CAR,Regional,595221,1
+Department of Justice (DOJ),None,Region I,Regional,267869,1
+Department of Justice (DOJ),None,Region II,Regional,500607,1
+Department of Justice (DOJ),None,Region III,Regional,1195809,1
+Department of Justice (DOJ),None,Region IV-A,Regional,1210747,1
+Department of Justice (DOJ),None,Region IV-B,Regional,1452037,1
+Department of Labor and Employment (DOLE),None,Nationwide,Central_Office,22443741,1
+Department of Labor and Employment (DOLE),None,Central Office,Central_Office,27014487,1
+Department of Labor and Employment (DOLE),None,NCR,Regional,1407543,1
+Department of Labor and Employment (DOLE),None,CAR,Regional,672256,1
+Department of Labor and Employment (DOLE),None,Region I,Regional,517317,1
+Department of Labor and Employment (DOLE),None,Region II,Regional,715874,1
+Department of Labor and Employment (DOLE),None,Region III,Regional,864062,1
+Department of Labor and Employment (DOLE),None,Region IV-A,Regional,1016229,1
+Department of Labor and Employment (DOLE),None,Region IV-B,Regional,578757,1
+Department of Migrant Workers (DMW),None,Central Office,Central_Office,11007746,1
+Department of Migrant Workers (DMW),None,NCR,Regional,105969,1
+Department of Migrant Workers (DMW),None,CAR,Regional,30774,1
+Department of Migrant Workers (DMW),None,Region I,Regional,40121,1
+Department of Migrant Workers (DMW),None,Region II,Regional,37780,1
+Department of Migrant Workers (DMW),None,Region III,Regional,58124,1
+Department of Migrant Workers (DMW),None,Region IV-A,Regional,53015,1
+Department of Migrant Workers (DMW),None,Region IV-B,Regional,42888,1
+Department of National Defense (DND),None,Central Office,Central_Office,6139541,1
+Department of National Defense (DND),None,NCR,Regional,79543451,1
+Department of National Defense (DND),None,CAR,Regional,3527872,1
+Department of National Defense (DND),None,Region I,Regional,5563039,1
+Department of National Defense (DND),None,Region II,Regional,5069103,1
+Department of National Defense (DND),None,Region III,Regional,72351988,1
+Department of National Defense (DND),None,Region IV-A,Regional,22880875,1
+Department of National Defense (DND),None,Region IV-B,Regional,8871580,1
+Department of Public Works and Highways (DPWH),None,Nationwide,Central_Office,26539878,1
+Department of Public Works and Highways (DPWH),None,NCR,Regional,48547127,1
+Department of Public Works and Highways (DPWH),None,CAR,Regional,24467809,1
+Department of Public Works and Highways (DPWH),None,Region I,Regional,17173620,1
+Department of Public Works and Highways (DPWH),None,Region II,Regional,28638182,1
+Department of Public Works and Highways (DPWH),None,Region III,Regional,51186110,1
+Department of Public Works and Highways (DPWH),None,Region IV-A,Regional,54585910,1
+Department of Public Works and Highways (DPWH),None,Region IV-B,Regional,16630651,1
+Department of Science and Technology (DOST),None,Central Office,Central_Office,5552809,1
+Department of Science and Technology (DOST),None,NCR,Regional,18449557,1
+Department of Science and Technology (DOST),None,CAR,Regional,383990,1
+Department of Science and Technology (DOST),None,Region I,Regional,395975,1
+Department of Science and Technology (DOST),None,Region II,Regional,425754,1
+Department of Science and Technology (DOST),None,Region III,Regional,535776,1
+Department of Science and Technology (DOST),None,Region IV-A,Regional,2474563,1
+Department of Science and Technology (DOST),None,Region IV-B,Regional,295542,1
+Department of Social Welfare and Development (DSWD),None,Nationwide,Central_Office,78264693,1
+Department of Social Welfare and Development (DSWD),None,Central Office,Central_Office,37052692,1
+Department of Social Welfare and Development (DSWD),None,NCR,Regional,7605942,1
+Department of Social Welfare and Development (DSWD),None,CAR,Regional,7267212,1
+Department of Social Welfare and Development (DSWD),None,Region I,Regional,2714126,1
+Department of Social Welfare and Development (DSWD),None,Region II,Regional,5632015,1
+Department of Social Welfare and Development (DSWD),None,Region III,Regional,9715775,1
+Department of Social Welfare and Development (DSWD),None,Region IV-A,Regional,13884964,1
+Department of Social Welfare and Development (DSWD),None,Region IV-B,Regional,7388717,1
+Department of Tourism (DOT),None,Central Office,Central_Office,2643134,1
+Department of Tourism (DOT),None,NCR,Regional,908684,1
+Department of Tourism (DOT),None,CAR,Regional,46376,1
+Department of Tourism (DOT),None,Region I,Regional,40623,1
+Department of Tourism (DOT),None,Region II,Regional,39766,1
+Department of Tourism (DOT),None,Region III,Regional,46404,1
+Department of Tourism (DOT),None,Region IV-A,Regional,43856,1
+Department of Tourism (DOT),None,Region IV-B,Regional,55268,1
+Department of Trade and Industry (DTI),None,Central Office,Central_Office,5428017,1
+Department of Trade and Industry (DTI),None,NCR,Regional,1221593,1
+Department of Trade and Industry (DTI),None,CAR,Regional,195669,1
+Department of Trade and Industry (DTI),None,Region I,Regional,207888,1
+Department of Trade and Industry (DTI),None,Region II,Regional,229567,1
+Department of Trade and Industry (DTI),None,Region III,Regional,265063,1
+Department of Trade and Industry (DTI),None,Region IV-A,Regional,258620,1
+Department of Trade and Industry (DTI),None,Region IV-B,Regional,206983,1
+Department of Transportation (DOTr),None,Central Office,Central_Office,1000,1
+Department of Transportation (DOTr),None,NCR,Regional,119618614,1
+Department of Transportation (DOTr),None,CAR,Regional,725866,1
+Department of Transportation (DOTr),None,Region I,Regional,513573,1
+Department of Transportation (DOTr),None,Region II,Regional,670434,1
+Department of Transportation (DOTr),None,Region III,Regional,562522,1
+Department of Transportation (DOTr),None,Region IV-A,Regional,442619,1
+Department of Transportation (DOTr),None,Region IV-B,Regional,552653,1
+Department of Economy Planning and Development (DEPDev),None,Central Office,Central_Office,7675675,1
+Department of Economy Planning and Development (DEPDev),None,NCR,Regional,1931453,1
+Department of Economy Planning and Development (DEPDev),None,CAR,Regional,245063,1
+Department of Economy Planning and Development (DEPDev),None,Region I,Regional,247427,1
+Department of Economy Planning and Development (DEPDev),None,Region II,Regional,246890,1
+Department of Economy Planning and Development (DEPDev),None,Region III,Regional,323395,1
+Department of Economy Planning and Development (DEPDev),None,Region IV-A,Regional,341546,1
+Department of Economy Planning and Development (DEPDev),None,Region IV-B,Regional,308331,1
+Presidential Communications Office (PCO),None,Central Office,Central_Office,2022462,1
+Presidential Communications Office (PCO),None,NCR,Regional,527486,1
+Other Executive Offices (OEOs),None,Central Office,Central_Office,51258563,1
+Other Executive Offices (OEOs),None,NCR,Regional,24454739,1
+Other Executive Offices (OEOs),None,CAR,Regional,307869,1
+Other Executive Offices (OEOs),None,Region I,Regional,412145,1
+Other Executive Offices (OEOs),None,Region II,Regional,254808,1
+Other Executive Offices (OEOs),None,Region III,Regional,308426,1
+Other Executive Offices (OEOs),None,Region IV-A,Regional,199884,1
+Other Executive Offices (OEOs),None,Region IV-B,Regional,207403,1
+The Judiciary (JUD),None,NCR,Regional,70610869,1
+Civil Service Commission (CSC),None,Central Office,Central_Office,980121,1
+Civil Service Commission (CSC),None,NCR,Regional,1056686,1
+Civil Service Commission (CSC),None,CAR,Regional,67285,1
+Civil Service Commission (CSC),None,Region I,Regional,53744,1
+Civil Service Commission (CSC),None,Region II,Regional,61066,1
+Civil Service Commission (CSC),None,Region III,Regional,76650,1
+Civil Service Commission (CSC),None,Region IV-A,Regional,88531,1
+Commission on Audit (COA),None,NCR,Regional,9377312,1
+Commission on Audit (COA),None,CAR,Regional,471215,1
+Commission on Audit (COA),None,Region I,Regional,384495,1
+Commission on Audit (COA),None,Region II,Regional,405024,1
+Commission on Audit (COA),None,Region III,Regional,461901,1
+Commission on Audit (COA),None,Region IV-A,Regional,481178,1
+Commission on Audit (COA),None,Region IV-B,Regional,332375,1
+Commission on Elections (COMELEC),None,Central Office,Central_Office,8804231,1
+Commission on Elections (COMELEC),None,NCR,Regional,8737555,1
+Commission on Elections (COMELEC),None,CAR,Regional,177588,1
+Commission on Elections (COMELEC),None,Region I,Regional,128563,1
+Commission on Elections (COMELEC),None,Region II,Regional,145295,1
+Commission on Elections (COMELEC),None,Region III,Regional,225497,1
+Commission on Elections (COMELEC),None,Region IV-A,Regional,261800,1
+Commission on Elections (COMELEC),None,Region IV-B,Regional,118643,1
+Office of the Ombudsman (OMB),None,NCR,Regional,6577491,1
+Commission on Human Rights (CHR),None,NCR,Regional,1412244,1
+Budgetary Support to Government Corporations (BSGC),None,Nationwide,Central_Office,891656,1
+Budgetary Support to Government Corporations (BSGC),None,Central Office,Central_Office,209604933,1
+Budgetary Support to Government Corporations (BSGC),None,NCR,Regional,42288576,1
+Budgetary Support to Government Corporations (BSGC),None,CAR,Regional,2608982,1
+Budgetary Support to Government Corporations (BSGC),None,Region I,Regional,80000,1
+Budgetary Support to Government Corporations (BSGC),None,Region II,Regional,6138972,1
+Budgetary Support to Government Corporations (BSGC),None,Region III,Regional,3423038,1
+Budgetary Support to Government Corporations (BSGC),None,Region IV-A,Regional,330000,1
+Budgetary Support to Government Corporations (BSGC),None,Region IV-B,Regional,200000,1
+Allocations to Local Government Units (ALGU),None,Nationwide,Central_Office,82918437,1
+Allocations to Local Government Units (ALGU),None,NCR,Regional,78470878,1
+Allocations to Local Government Units (ALGU),None,CAR,Regional,62611927,1
+Allocations to Local Government Units (ALGU),None,Region I,Regional,35593981,1
+Allocations to Local Government Units (ALGU),None,Region II,Regional,60344758,1
+Allocations to Local Government Units (ALGU),None,Region III,Regional,117350279,1
+Allocations to Local Government Units (ALGU),None,Region IV-A,Regional,143157634,1
+Allocations to Local Government Units (ALGU),None,Region IV-B,Regional,51440986,1
+Customs duties and taxes including tax expenditures,None,Nationwide,Central_Office,14500000,1
+Debt Interest Payments,None,Nationwide,Central_Office,950000000,1
+National Disaster Risk Reduction and Management Fund (Calamity Fund),None,Nationwide,Central_Office,39822355,1
+Contingent Fund,None,Nationwide,Central_Office,13000000,1
+Miscellaneous Personnel Benefits Fund,None,Nationwide,Central_Office,77047627,1
+Pension and Gratuity Fund,None,Nationwide,Central_Office,165518761,1
+Revised AFP Modernization Program,None,Nationwide,Central_Office,40000000,1
+Net lending,None,Nationwide,Central_Office,28700000,1
+GRAND TOTAL,None,Nationwide,Central_Office,1775482988,1
+GRAND TOTAL,None,Central Office,Central_Office,793060737,1
+GRAND TOTAL,None,NCR,Regional,868825649,1
+GRAND TOTAL,None,CAR,Regional,182011616,1
+GRAND TOTAL,None,Region I,Regional,102328859,1
+GRAND TOTAL,None,Region II,Regional,175778470,1
+GRAND TOTAL,None,Region III,Regional,395419168,1
+GRAND TOTAL,None,Region IV-A,Regional,377124430,1
+GRAND TOTAL,None,Region IV-B,Regional,136967864,1
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,Region V,Regional,832266,2
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,Region VI,Regional,495298,2
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,NIR,Regional,811406,2
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,Region VII,Regional,248910,2
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,Region VIII,Regional,774571,2
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,Region IX,Regional,352995,2
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,Region X,Regional,473366,2
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,Region XI,Regional,472179,2
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,Region XII,Regional,661104,2
+Office of the Vice-President (OVP) Department of Agrarian Reform (DAR),None,CARAGA,Regional,414302,2
+Department of Agriculture (DA),None,Region V,Regional,5369755,2
+Department of Agriculture (DA),None,Region VI,Regional,5699325,2
+Department of Agriculture (DA),None,NIR,Regional,2487961,2
+Department of Agriculture (DA),None,Region VII,Regional,3334555,2
+Department of Agriculture (DA),None,Region VIII,Regional,7268267,2
+Department of Agriculture (DA),None,Region IX,Regional,4374917,2
+Department of Agriculture (DA),None,Region X,Regional,4917310,2
+Department of Agriculture (DA),None,Region XI,Regional,3687612,2
+Department of Agriculture (DA),None,Region XII,Regional,7375226,2
+Department of Agriculture (DA),None,CARAGA,Regional,2979381,2
+Department of Budget and Management (DBM),None,Region V,Regional,40452,2
+Department of Budget and Management (DBM),None,Region VI,Regional,42405,2
+Department of Budget and Management (DBM),None,NIR,Regional,5179,2
+Department of Budget and Management (DBM),None,Region VII,Regional,41254,2
+Department of Budget and Management (DBM),None,Region VIII,Regional,50656,2
+Department of Budget and Management (DBM),None,Region IX,Regional,41893,2
+Department of Budget and Management (DBM),None,Region X,Regional,37439,2
+Department of Budget and Management (DBM),None,Region XI,Regional,45119,2
+Department of Budget and Management (DBM),None,Region XII,Regional,44572,2
+Department of Budget and Management (DBM),None,CARAGA,Regional,49256,2
+Department of Education (DepEd),None,Region V,Regional,65718614,2
+Department of Education (DepEd),None,Region VI,Regional,64405535,2
+Department of Education (DepEd),None,NIR,Regional,12748472,2
+Department of Education (DepEd),None,Region VII,Regional,67151755,2
+Department of Education (DepEd),None,Region VIII,Regional,53557183,2
+Department of Education (DepEd),None,Region IX,Regional,42648475,2
+Department of Education (DepEd),None,Region X,Regional,45428339,2
+Department of Education (DepEd),None,Region XI,Regional,45944542,2
+Department of Education (DepEd),None,Region XII,Regional,40342942,2
+Department of Education (DepEd),None,CARAGA,Regional,31437887,2
+Department of Education (DepEd),None,BARMM,Regional,1127585,2
+State Universities and Colleges (SUCs),None,Region V,Regional,7257037,2
+State Universities and Colleges (SUCs),None,Region VI,Regional,8727721,2
+State Universities and Colleges (SUCs),None,NIR,Regional,3289481,2
+State Universities and Colleges (SUCs),None,Region VII,Regional,4788040,2
+State Universities and Colleges (SUCs),None,Region VIII,Regional,9278231,2
+State Universities and Colleges (SUCs),None,Region IX,Regional,5007256,2
+State Universities and Colleges (SUCs),None,Region X,Regional,7591917,2
+State Universities and Colleges (SUCs),None,Region XI,Regional,3457081,2
+State Universities and Colleges (SUCs),None,Region XII,Regional,3481541,2
+State Universities and Colleges (SUCs),None,CARAGA,Regional,4059345,2
+State Universities and Colleges (SUCs),None,BARMM,Regional,7019572,2
+Department of Energy (DOE),None,Region VII,Regional,111777,2
+Department of Energy (DOE),None,Region VIII,Regional,20000,2
+Department of Energy (DOE),None,Region IX,Regional,20000,2
+Department of Energy (DOE),None,Region X,Regional,20000,2
+Department of Energy (DOE),None,Region XI,Regional,92590,2
+Department of Energy (DOE),None,Region XII,Regional,44000,2
+Department of Environment and Natural Resources (DENR),None,Region V,Regional,1171875,2
+Department of Environment and Natural Resources (DENR),None,Region VI,Regional,1079393,2
+Department of Environment and Natural Resources (DENR),None,NIR,Regional,395445,2
+Department of Environment and Natural Resources (DENR),None,Region VII,Regional,846768,2
+Department of Environment and Natural Resources (DENR),None,Region VIII,Regional,1113839,2
+Department of Environment and Natural Resources (DENR),None,Region IX,Regional,1175267,2
+Department of Environment and Natural Resources (DENR),None,Region X,Regional,1167527,2
+Department of Environment and Natural Resources (DENR),None,Region XI,Regional,1178889,2
+Department of Environment and Natural Resources (DENR),None,Region XII,Regional,1022695,2
+Department of Environment and Natural Resources (DENR),None,CARAGA,Regional,1250457,2
+Department of Finance (DOF),None,Region V,Regional,538892,2
+Department of Finance (DOF),None,Region VI,Regional,1104563,2
+Department of Finance (DOF),None,Region VII,Regional,745631,2
+Department of Finance (DOF),None,Region VIII,Regional,493951,2
+Department of Finance (DOF),None,Region IX,Regional,511406,2
+Department of Finance (DOF),None,Region X,Regional,637077,2
+Department of Finance (DOF),None,Region XI,Regional,684820,2
+Department of Finance (DOF),None,Region XII,Regional,451547,2
+Department of Finance (DOF),None,CARAGA,Regional,389001,2
+Department of Finance (DOF),None,BARMM,Regional,13303,2
+Department of Foreign Affairs (DFA),None,Region V,Regional,832,2
+Department of Foreign Affairs (DFA),None,Region VI,Regional,3795,2
+Department of Foreign Affairs (DFA),None,Region VII,Regional,26527,2
+Department of Foreign Affairs (DFA),None,Region VIII,Regional,10418,2
+Department of Foreign Affairs (DFA),None,Region IX,Regional,4524,2
+Department of Foreign Affairs (DFA),None,Region X,Regional,3194,2
+Department of Foreign Affairs (DFA),None,Region XI,Regional,6671,2
+Department of Foreign Affairs (DFA),None,Region XII,Regional,1782,2
+Department of Foreign Affairs (DFA),None,CARAGA,Regional,785,2
+Department of Health (DOH),None,Region V,Regional,8474068,2
+Department of Health (DOH),None,Region VI,Regional,5453866,2
+Department of Health (DOH),None,NIR,Regional,3005112,2
+Department of Health (DOH),None,Region VII,Regional,12545411,2
+Department of Health (DOH),None,Region VIII,Regional,4901951,2
+Department of Health (DOH),None,Region IX,Regional,6981481,2
+Department of Health (DOH),None,Region X,Regional,10202350,2
+Department of Health (DOH),None,Region XI,Regional,11117036,2
+Department of Health (DOH),None,Region XII,Regional,3928493,2
+Department of Health (DOH),None,CARAGA,Regional,3678422,2
+Department of Human Settlements and Urban Development (DHSUD),None,Region V,Regional,61437,2
+Department of Human Settlements and Urban Development (DHSUD),None,Region VI,Regional,64541,2
+Department of Human Settlements and Urban Development (DHSUD),None,NIR,Regional,16207,2
+Department of Human Settlements and Urban Development (DHSUD),None,Region VII,Regional,72627,2
+Department of Human Settlements and Urban Development (DHSUD),None,Region VIII,Regional,58181,2
+Department of Human Settlements and Urban Development (DHSUD),None,Region IX,Regional,54700,2
+Department of Human Settlements and Urban Development (DHSUD),None,Region X,Regional,71492,2
+Department of Human Settlements and Urban Development (DHSUD),None,Region XI,Regional,81331,2
+Department of Human Settlements and Urban Development (DHSUD),None,Region XII,Regional,63595,2
+Department of Human Settlements and Urban Development (DHSUD),None,CARAGA,Regional,55268,2
+Department of Information and Communications Technology (DICT),None,Region V,Regional,22079,2
+Department of Information and Communications Technology (DICT),None,Region VI,Regional,22569,2
+Department of Information and Communications Technology (DICT),None,Region VII,Regional,32645,2
+Department of Information and Communications Technology (DICT),None,Region VIII,Regional,20022,2
+Department of Information and Communications Technology (DICT),None,Region IX,Regional,21115,2
+Department of Information and Communications Technology (DICT),None,Region X,Regional,32491,2
+Department of Information and Communications Technology (DICT),None,Region XI,Regional,18839,2
+Department of Information and Communications Technology (DICT),None,Region XII,Regional,24881,2
+Department of Information and Communications Technology (DICT),None,CARAGA,Regional,23614,2
+Department of the Interior and Local Government (DILG),None,Region V,Regional,2510987,2
+Department of the Interior and Local Government (DILG),None,Region VI,Regional,2351044,2
+Department of the Interior and Local Government (DILG),None,NIR,Regional,1844459,2
+Department of the Interior and Local Government (DILG),None,Region VII,Regional,3828953,2
+Department of the Interior and Local Government (DILG),None,Region VIII,Regional,2175332,2
+Department of the Interior and Local Government (DILG),None,Region IX,Regional,2283270,2
+Department of the Interior and Local Government (DILG),None,Region X,Regional,2457884,2
+Department of the Interior and Local Government (DILG),None,Region XI,Regional,2021537,2
+Department of the Interior and Local Government (DILG),None,Region XII,Regional,1735424,2
+Department of the Interior and Local Government (DILG),None,CARAGA,Regional,1559377,2
+Department of the Interior and Local Government (DILG),None,BARMM,Regional,1113727,2
+Department of Justice (DOJ),None,Region V,Regional,592095,2
+Department of Justice (DOJ),None,Region VI,Regional,671990,2
+Department of Justice (DOJ),None,NIR,Regional,19641,2
+Department of Justice (DOJ),None,Region VII,Regional,860042,2
+Department of Justice (DOJ),None,Region VIII,Regional,700647,2
+Department of Justice (DOJ),None,Region IX,Regional,634339,2
+Department of Justice (DOJ),None,Region X,Regional,440208,2
+Department of Justice (DOJ),None,Region XI,Regional,935083,2
+Department of Justice (DOJ),None,Region XII,Regional,310657,2
+Department of Justice (DOJ),None,CARAGA,Regional,239208,2
+Department of Justice (DOJ),None,BARMM,Regional,153690,2
+Department of Labor and Employment (DOLE),None,Region V,Regional,750354,2
+Department of Labor and Employment (DOLE),None,Region VI,Regional,833239,2
+Department of Labor and Employment (DOLE),None,NIR,Regional,76446,2
+Department of Labor and Employment (DOLE),None,Region VII,Regional,680294,2
+Department of Labor and Employment (DOLE),None,Region VIII,Regional,688782,2
+Department of Labor and Employment (DOLE),None,Region IX,Regional,654197,2
+Department of Labor and Employment (DOLE),None,Region X,Regional,813321,2
+Department of Labor and Employment (DOLE),None,Region XI,Regional,947507,2
+Department of Labor and Employment (DOLE),None,Region XII,Regional,627284,2
+Department of Labor and Employment (DOLE),None,CARAGA,Regional,509009,2
+Department of Migrant Workers (DMW),None,Region V,Regional,38491,2
+Department of Migrant Workers (DMW),None,Region VI,Regional,42930,2
+Department of Migrant Workers (DMW),None,Region VII,Regional,48506,2
+Department of Migrant Workers (DMW),None,Region VIII,Regional,32873,2
+Department of Migrant Workers (DMW),None,Region IX,Regional,38217,2
+Department of Migrant Workers (DMW),None,Region X,Regional,38673,2
+Department of Migrant Workers (DMW),None,Region XI,Regional,51426,2
+Department of Migrant Workers (DMW),None,Region XII,Regional,35714,2
+Department of Migrant Workers (DMW),None,CARAGA,Regional,41980,2
+Department of National Defense (DND),None,Region V,Regional,7770709,2
+Department of National Defense (DND),None,Region VI,Regional,6645549,2
+Department of National Defense (DND),None,NIR,Regional,17154,2
+Department of National Defense (DND),None,Region VII,Regional,17013763,2
+Department of National Defense (DND),None,Region VIII,Regional,10222332,2
+Department of National Defense (DND),None,Region IX,Regional,10173720,2
+Department of National Defense (DND),None,Region X,Regional,11833861,2
+Department of National Defense (DND),None,Region XI,Regional,7825061,2
+Department of National Defense (DND),None,Region XII,Regional,6120623,2
+Department of National Defense (DND),None,CARAGA,Regional,5916268,2
+Department of National Defense (DND),None,BARMM,Regional,22509810,2
+Department of Public Works and Highways (DPWH),None,Region V,Regional,33384165,2
+Department of Public Works and Highways (DPWH),None,Region VI,Regional,19143423,2
+Department of Public Works and Highways (DPWH),None,NIR,Regional,16026015,2
+Department of Public Works and Highways (DPWH),None,Region VII,Regional,29237516,2
+Department of Public Works and Highways (DPWH),None,Region VIII,Regional,33380849,2
+Department of Public Works and Highways (DPWH),None,Region IX,Regional,25837273,2
+Department of Public Works and Highways (DPWH),None,Region X,Regional,32561412,2
+Department of Public Works and Highways (DPWH),None,Region XI,Regional,26984102,2
+Department of Public Works and Highways (DPWH),None,Region XII,Regional,25317974,2
+Department of Public Works and Highways (DPWH),None,CARAGA,Regional,21256845,2
+Department of Science and Technology (DOST),None,Region V,Regional,404024,2
+Department of Science and Technology (DOST),None,Region VI,Regional,413753,2
+Department of Science and Technology (DOST),None,Region VII,Regional,427536,2
+Department of Science and Technology (DOST),None,Region VIII,Regional,397328,2
+Department of Science and Technology (DOST),None,Region IX,Regional,458803,2
+Department of Science and Technology (DOST),None,Region X,Regional,460290,2
+Department of Science and Technology (DOST),None,Region XI,Regional,383410,2
+Department of Science and Technology (DOST),None,Region XII,Regional,347381,2
+Department of Science and Technology (DOST),None,CARAGA,Regional,317876,2
+Department of Social Welfare and Development (DSWD),None,Region V,Regional,12801683,2
+Department of Social Welfare and Development (DSWD),None,Region VI,Regional,8636691,2
+Department of Social Welfare and Development (DSWD),None,NIR,Regional,9232729,2
+Department of Social Welfare and Development (DSWD),None,Region VII,Regional,9909104,2
+Department of Social Welfare and Development (DSWD),None,Region VIII,Regional,11294922,2
+Department of Social Welfare and Development (DSWD),None,Region IX,Regional,11174846,2
+Department of Social Welfare and Development (DSWD),None,Region X,Regional,10221303,2
+Department of Social Welfare and Development (DSWD),None,Region XI,Regional,10821421,2
+Department of Social Welfare and Development (DSWD),None,Region XII,Regional,9161163,2
+Department of Social Welfare and Development (DSWD),None,CARAGA,Regional,7409403,2
+Department of Tourism (DOT),None,Region V,Regional,38107,2
+Department of Tourism (DOT),None,Region VI,Regional,58491,2
+Department of Tourism (DOT),None,Region VII,Regional,51485,2
+Department of Tourism (DOT),None,Region VIII,Regional,41222,2
+Department of Tourism (DOT),None,Region IX,Regional,41691,2
+Department of Tourism (DOT),None,Region X,Regional,38655,2
+Department of Tourism (DOT),None,Region XI,Regional,50543,2
+Department of Tourism (DOT),None,Region XII,Regional,42749,2
+Department of Tourism (DOT),None,CARAGA,Regional,38072,2
+Department of Trade and Industry (DTI),None,Region V,Regional,231824,2
+Department of Trade and Industry (DTI),None,Region VI,Regional,214565,2
+Department of Trade and Industry (DTI),None,NIR,Regional,46531,2
+Department of Trade and Industry (DTI),None,Region VII,Regional,290559,2
+Department of Trade and Industry (DTI),None,Region VIII,Regional,221496,2
+Department of Trade and Industry (DTI),None,Region IX,Regional,210912,2
+Department of Trade and Industry (DTI),None,Region X,Regional,240428,2
+Department of Trade and Industry (DTI),None,Region XI,Regional,256833,2
+Department of Trade and Industry (DTI),None,Region XII,Regional,194927,2
+Department of Trade and Industry (DTI),None,CARAGA,Regional,240435,2
+Department of Transportation (DOTr),None,Region V,Regional,1049500,2
+Department of Transportation (DOTr),None,Region VI,Regional,593332,2
+Department of Transportation (DOTr),None,Region VII,Regional,6984826,2
+Department of Transportation (DOTr),None,Region VIII,Regional,1627749,2
+Department of Transportation (DOTr),None,Region IX,Regional,184781,2
+Department of Transportation (DOTr),None,Region X,Regional,1036775,2
+Department of Transportation (DOTr),None,Region XI,Regional,2648725,2
+Department of Transportation (DOTr),None,Region XII,Regional,278755,2
+Department of Transportation (DOTr),None,CARAGA,Regional,347454,2
+Department of Transportation (DOTr),None,BARMM,Regional,7210,2
+Department of Economy Planning and Development (DEPDev),None,Region V,Regional,275401,2
+Department of Economy Planning and Development (DEPDev),None,Region VI,Regional,291759,2
+Department of Economy Planning and Development (DEPDev),None,NIR,Regional,71392,2
+Department of Economy Planning and Development (DEPDev),None,Region VII,Regional,294368,2
+Department of Economy Planning and Development (DEPDev),None,Region VIII,Regional,290663,2
+Department of Economy Planning and Development (DEPDev),None,Region IX,Regional,217874,2
+Department of Economy Planning and Development (DEPDev),None,Region X,Regional,276840,2
+Department of Economy Planning and Development (DEPDev),None,Region XI,Regional,263177,2
+Department of Economy Planning and Development (DEPDev),None,Region XII,Regional,261373,2
+Department of Economy Planning and Development (DEPDev),None,CARAGA,Regional,229890,2
+Department of Economy Planning and Development (DEPDev),None,BARMM,Regional,158613,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,Region V,Regional,210139,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,Region VI,Regional,268491,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,NIR,Regional,99696,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,Region VII,Regional,191271,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,Region VIII,Regional,136857,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,Region IX,Regional,302462,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,Region X,Regional,211388,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,Region XI,Regional,719313,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,Region XII,Regional,232020,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,CARAGA,Regional,275686,2
+Presidential Communications Office (PCO) Other Executive Offices (OEOs),None,BARMM,Regional,2340043,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,Region V,Regional,66305,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,Region VI,Regional,64272,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,Region VII,Regional,62578,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,Region VIII,Regional,68710,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,Region IX,Regional,55445,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,Region X,Regional,53894,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,Region XI,Regional,80797,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,Region XII,Regional,57372,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,CARAGA,Regional,57688,2
+The Judiciary (JUD) Civil Service Commission (CSC),None,BARMM,Regional,50068,2
+Commission on Audit (COA),None,Region V,Regional,492580,2
+Commission on Audit (COA),None,Region VI,Regional,462933,2
+Commission on Audit (COA),None,NIR,Regional,11768,2
+Commission on Audit (COA),None,Region VII,Regional,335375,2
+Commission on Audit (COA),None,Region VIII,Regional,366987,2
+Commission on Audit (COA),None,Region IX,Regional,303436,2
+Commission on Audit (COA),None,Region X,Regional,421164,2
+Commission on Audit (COA),None,Region XI,Regional,381744,2
+Commission on Audit (COA),None,Region XII,Regional,330830,2
+Commission on Audit (COA),None,CARAGA,Regional,372071,2
+Commission on Audit (COA),None,BARMM,Regional,218515,2
+Commission on Elections (COMELEC),None,Region V,Regional,192606,2
+Commission on Elections (COMELEC),None,Region VI,Regional,228568,2
+Commission on Elections (COMELEC),None,Region VII,Regional,212360,2
+Commission on Elections (COMELEC),None,Region VIII,Regional,210326,2
+Commission on Elections (COMELEC),None,Region IX,Regional,118233,2
+Commission on Elections (COMELEC),None,Region X,Regional,149795,2
+Commission on Elections (COMELEC),None,Region XI,Regional,101301,2
+Commission on Elections (COMELEC),None,Region XII,Regional,264031,2
+Commission on Elections (COMELEC),None,CARAGA,Regional,119921,2
+Budgetary Support to Government Corporations (BSGC),None,Region V,Regional,350000,2
+Budgetary Support to Government Corporations (BSGC),None,Region VI,Regional,6486127,2
+Budgetary Support to Government Corporations (BSGC),None,Region VII,Regional,501238,2
+Budgetary Support to Government Corporations (BSGC),None,Region VIII,Regional,180000,2
+Budgetary Support to Government Corporations (BSGC),None,Region IX,Regional,884539,2
+Budgetary Support to Government Corporations (BSGC),None,Region X,Regional,40000,2
+Budgetary Support to Government Corporations (BSGC),None,Region XI,Regional,268029,2
+Budgetary Support to Government Corporations (BSGC),None,Region XII,Regional,284500,2
+Budgetary Support to Government Corporations (BSGC),None,CARAGA,Regional,165000,2
+Allocations to Local Government Units (ALGU),None,Region V,Regional,70608755,2
+Allocations to Local Government Units (ALGU),None,Region VI,Regional,55778538,2
+Allocations to Local Government Units (ALGU),None,NIR,Regional,62398016,2
+Allocations to Local Government Units (ALGU),None,Region VII,Regional,61012911,2
+Allocations to Local Government Units (ALGU),None,Region VIII,Regional,70976160,2
+Allocations to Local Government Units (ALGU),None,Region IX,Regional,59085798,2
+Allocations to Local Government Units (ALGU),None,Region X,Regional,64009801,2
+Allocations to Local Government Units (ALGU),None,Region XI,Regional,57503437,2
+Allocations to Local Government Units (ALGU),None,Region XII,Regional,49942041,2
+Allocations to Local Government Units (ALGU),None,CARAGA,Regional,47341112,2
+Allocations to Local Government Units (ALGU),None,BARMM,Regional,162323722,2
+GRAND TOTAL,None,Region V,Regional,221255032,2
+GRAND TOTAL,None,Region VI,Regional,190284706,2
+GRAND TOTAL,None,NIR,Regional,112603110,2
+GRAND TOTAL,None,Region VII,Regional,221888585,2
+GRAND TOTAL,None,Region VIII,Regional,210560505,2
+GRAND TOTAL,None,Region IX,Regional,173853865,2
+GRAND TOTAL,None,Region X,Regional,195888194,2
+GRAND TOTAL,None,Region XI,Regional,179030155,2
+GRAND TOTAL,None,Region XII,Regional,152987196,2
+GRAND TOTAL,None,CARAGA,Regional,130775013,2
+GRAND TOTAL,None,BARMM,Regional,197035858,2
